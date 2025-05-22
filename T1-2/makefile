@@ -1,10 +1,10 @@
 all: compila executa
 
 compila:
-	gcc *.c -lm -o executavel > compilacao.txt
+	@echo "Python não precisa de compilação" > compilacao.txt
 
-executa: 
-	./executavel < arquivoentrada > arquivosaida 2>&1
+executa:
+	python3 model.py < arquivoentrada > arquivosaida 2>&1
 
 clear:
-	rm executavel arquivosaida
+	rm -f arquivosaida compilacao.txt model model.hpp
