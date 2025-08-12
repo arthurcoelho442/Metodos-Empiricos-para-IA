@@ -1,0 +1,94 @@
+1008247-37.2022.8.26.0048
+Classe: Mandado de Segurança Cível
+Assunto: Energia Elétrica
+Magistrado: Marcelo Octaviano Diniz Junqueira
+Comarca: Atibaia
+Foro: Foro de Atibaia
+Vara: 2ª Vara Cível
+Data de Disponibilização: 12/12/2022
+... que "o ICMS não é imposto incidente sobre tráfico jurídico, não sendo cobrado, por não haver incidência, pelo fato de celebração de contratos", razão pela qual, no que se refere à contratação de demanda de potência elétrica, "a só formalização desse tipo de contrato de compra ou fornecimento futuro de energia elétrica não caracteriza circulação de mercadoria". Afirma-se, assim, que ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de Atibaia
+Foro de Atibaia
+2ª Vara Cível
+Rua Doutor José Roberto Paim, 99, Atibaia - SP - cep 12945-007
+Horário de Atendimento ao Público: das 13h00min às17h00min
+      
+1008247-37.2022.8.26.0048 - lauda 
+SENTENÇA
+
+Processo Digital nº:
+1008247-37.2022.8.26.0048
+Classe - Assunto
+Mandado de Segurança Cível - Energia Elétrica
+Impetrante:
+Universo do Gelo Comércio Ltda
+Impetrado:
+SECRETÁRIO DA FAZENDA DO ESTADO DE SÃO PAULO
+
+
+
+
+
+Juiz(a) de Direito: Dr(a). Marcelo Octaviano Diniz Junqueira
+
+
+
+
+          Vistos.
+
+
+UNIVERSO DO GELO COMÉRCIO LTDA impetrou mandado de segurança contra o ESTADO DE SÃO PAULO, alegando que não deveria incidir ICMS sobre o montante de energia contratado, mas somente sobre o efetivamente consumido. Requer a declaração da base de cálculo sobre a UC n. 44102666, e o direito ao crédito sobre os valores recolhidos em excesso. 
+Determinada a emenda da inicial para correção do polo passivo (fl. 44).
+Alterou-se para fazer constar FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO (fls. 47/48).
+Determinada a inclusão do SECRETÁRIO DA FAZENDA DO ESTADO DE SÃO PAULO, e deferiu-se a liminar para que a autoridade coatora se abstivesse de efetuar cobranças do imposto sobre a fatura da energia contratada (fls. 49/52).
+A FESP requereu o ingresso nos autos (fl. 62).
+Transcorrido o prazo legal, sem defesa (certidão – fl. 63).
+O Ministério Público declinou de se manifestar nos autos (fls. 71/72).
+
+É o relatório. Passo a decidir. 
+
+Trata-se de mandado de segurança por meio do qual a sociedade empresária impetrante insurge-se contra incidência de ICMS sobre a reserva de demanda de energia contratada, não tendo sido efetivamente consumida.
+Defiro o ingresso da Fazenda Pública do Estado de São Paulo no presente feito na qualidade de assistente litisconsorcial, nos termos do artigo 7.º, inciso II, parte final, da Lei n.º 12.016/09. Anote-se.
+O feito comporta julgamento no estado em que se encontra, mostrando-se dispensável maior elaboração probatória, considerando ainda a revelia, com fulcro no art. 355, inciso II, c.c artigo 344, ambos do Código de Processo Civil.
+Inicialmente, afasta-se eventual discussão acerca da legitimidade ativa da autora, conforme decisão o C. Superior Tribunal de Justiça no julgamento do recurso repetitivo n.º 1.299.303/SC: 
+RECURSO ESPECIAL. REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C CÓDIGODE PROCESSO CIVIL. CONCESSÃO DE SERVIÇO PÚBLICO. ENERGIA ELÉTRICA. INCIDÊNCIA DO ICMS SOBRE A DEMANDA "CONTRATADA E NÃO UTILIZADA". LEGITIMIDADE DO CONSUMIDOR PARA PROPOR AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO. - Diante do que dispõe a legislação que disciplina as concessões de serviço público e da peculiar relação envolvendo o Estado-concedente, a concessionária e o consumidor, esse último tem legitimidade para propor ação declaratória c/c repetição de indébito na qual se busca afastar, no tocante ao fornecimento de energia elétrica, a incidência do ICMS sobre a demanda contratada e não utilizada. - O acórdão proferido no REsp 903.394/AL (repetitivo), da Primeira Seção, Ministro Luiz Fux, DJe de 26.4.2010, dizendo respeito a distribuidores de bebidas, não se aplica aos casos de fornecimento de energia elétrica. Recurso especial improvido. Acórdão proferido sob o rito do art. 543-C do Código de Processo Civil. (REsp 1299303/SC, Primeira Seção, Rel. Min. CESAR ASFOR ROCHA, DJe 14/08/2012).
+
+Como cediço, o ICMS caracteriza-se como tributo incidente sobre operações relativas à circulação de mercadorias. O fato gerador é a saída do estabelecimento do contribuinte, sendo devido o imposto somente com a entrega ao seu destinatário, quando ocorre a efetiva transferência da posse ou propriedade. O efetivo consumo, pelo destinatário final, é imprescindível para a caracterização do fato gerador do tributo. 
+O artigo 1º da Lei Estadual nº 6.374/89 estabelece que: 
+
+Artigo 1º - O Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS incide sobre: (Redação dada ao artigo pela Lei 10.619/00, de 19-07-2000; DOE 20-07-2000) I- operação relativa à circulação de mercadorias, inclusive o fornecimento de alimentação, bebidas e outras mercadorias em qualquer estabelecimento; (..)
+
+Como a base de cálculo do ICMS tem como fato gerador circulação de mercadoria, em se tratando de energia elétrica, somente é tributável o seu efetivo consumo, consoante anota Roque Antonio Carrazza:
+
+“(...). A base de cálculo possível do ICMS incidente sobre energia elétrica é o valor da operação da qual decorra a entrega desta mercadoria (a energia elétrica) ao consumidor. Noutro giro, é o preço da energia elétrica efetivamente consumida, vale dizer, o valor da operação da qual decorra a entrega desta mercadoria ao consumidor final. Isto corresponde, na dicção do art. 34, § 9.º, do ADCT, ao “preço então praticado na operação final”. Descendo a detalhes: a base de cálculo do ICMS-Energia Elétrica é o “valor de que decorrer a saída da mercadoria”, conforme, aliás, dispõe a legislação ordinária de todos os Estados-membros e do Distrito Federal (v.g., o art. 24 da Lei paulista 6.374/1979). A própria Lei Complementar 87/1996 está afinada neste diapasão (art. 13, I). (...). Repisando argumentos já exibidos, sendo o ICMS-Energia Elétrica uma modalidade de imposto sobre operações mercantis, sua base de cálculo somente pode ser o valor da operação de fornecimento desta mercadoria. (Cf. CARRAZZA, Roque Antonio. ICMS. 15. Ed., rev. e ampl. São Paulo: Malheiros Editores, 2011, p. 303-304 – destaquei em negrito).
+
+O C. Superior Tribunal de Justiça, no julgamento proferido nos autos do Recurso Especial nº 960.476/SC (Tema n.º 63, em que se questionava a legitimidade da cobrança de ICMS sobre o valor pago a título de "demanda contratada" de energia elétrica), processado sob o regime dos recursos repetitivos, firmou entendimento no sentido de que o ICMS incide apenas sobre a demanda de potência elétrica efetivamente utilizada pelo consumidor:
+
+TRIBUTÁRIO. ICMS. ENERGIA ELÉTRICA. DEMANDA DE POTÊNCIA. NÃO INCIDÊNCIA SOBRE TARIFA CALCULADA COM BASE EM DEMANDA CONTRATADA E NÃO UTILIZADA. INCIDÊNCIA SOBRE TARIFA CALCULADA COM BASE NA DEMANDA DE POTÊNCIA ELÉTRICA EFETIVAMENTE UTILIZADA. 1. A jurisprudência assentada pelo STJ, a partir do julgamento do REsp 222.810/MG (1ª Turma, Min. José Delgado, DJ de 15.05.2000), é no sentido de que "o ICMS não é imposto incidente sobre tráfico jurídico, não sendo cobrado, por não haver incidência, pelo fato de celebração de contratos", razão pela qual, no que se refere à contratação de demanda de potência elétrica, "a só formalização desse tipo de contrato de compra ou fornecimento futuro de energia elétrica não caracteriza circulação de mercadoria". Afirma-se, assim, que "o ICMS deve incidir sobre o valor da energia elétrica efetivamente consumida, isto é, a que for entregue ao consumidor, a que tenha saído da linha de transmissão e entrado no estabelecimento da empresa". 2. Na linha dessa jurisprudência, é certo que "não há hipótese de incidência do ICMS sobre o valor do contrato referente à garantia de demanda reservada de potência". Todavia, nessa mesma linha jurisprudencial, também é certo afirmar, a contrario sensu, que há hipótese de incidência de ICMS sobre a demanda de potência elétrica efetivamente utilizada pelo consumidor. 3. Assim, para efeito de base de cálculo de ICMS (tributo cujo fato gerador supõe o efetivo consumo de energia), o valor da tarifa a ser levado em conta é o correspondente à demanda de potência efetivamente utilizada no período de faturamento, como tal considerada a demanda medida, segundo os métodos de medição a que se refere o art. 2º, XII, da Resolução ANEEL 456/2000, independentemente de ser ela menor, igual ou maior que a demanda contratada. 4. No caso, o pedido deve ser acolhido em parte, para reconhecer indevida a incidência do ICMS sobre o valor correspondente à demanda de potência elétrica contratada mas não utilizada. 5. Recurso especial parcialmente provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08. (REsp n. 960.476/SC, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 11/3/2009, DJe de 13/5/2009).
+
+O STF julgou o RE 593.824/SC, processo-paradigma do Tema n.176 com trânsito em julgado em 25/02/2021, fixando a seguinte tese: 
+
+"A demanda de potência elétrica não é passível, por si só, de tributação via ICMS, porquanto somente integram a base de cálculo desse imposto os valores referentes àquelas operações em que haja efetivo consumo de energia elétrica pelo consumidor”.  
+
+Aplica-se, ainda, ao caso em análise, a Súmula nº 391 do E. STJ: 
+"O ICMS incide sobre o valor da tarifa de energia elétrica correspondente à demanda de potência efetivamente utilizada". 
+
+Dessa forma, inexigível o ICMS incidente sobre o valor contratual da demanda reservada de energia elétrica, por vício na base do fato gerador.
+Logo, diante da ilegalidade, independentemente de se tratar de contrato de consumo cativo ou livre, resta demonstrado o direito líquido e certo alegado e lesado, de modo que a concessão da segurança se impõe.
+Consequentemente, cabível o pedido restituição dos valores cobrados em excesso, abrangendo o prazo quinquenal retroativamente, a contar-se do ajuizamento do mandamus. 
+Contudo, não é possível aqui a compensação de crédito tributário (artigos 156, II, e 170 do CTN), haja vista inexistir pedido administrativo prévio, e haver entendimento consolidado no Superior Tribunal de Justiça de que seria necessária lei prévia que a autorizasse, inexistente no Estado de São Paulo (e inaplicável a Lei 6.374/89, por não se confundirem os créditos escriturais com créditos decorrentes do pagamento considerado indevido por sentença judicial, não importando em contrariedade à Súmula 213 do STJ, conforme explicitado no julgamento do Tema 118 do STJ).
+Em se tratando de declaração de inexigibilidade combinada com repetição de indébito de tributo estadual, deve incidir correção monetária, desde o desembolso, pelo IPCA-E até o trânsito em julgado (Tema 810 do STF), bem como, a partir de então, a aplicação da taxa SELIC (que abrange os juros de mora e correção monetária), nos termos do art. 167, parágrafo único, do Código Tributário Nacional e Súmula n.º 188, editada pelo C. Superior Tribunal de Justiça e o disposto no artigo 1º da Lei Estadual n. 10.175/98.
+Aliás, após a entrada em vigor da Emenda Constitucional nº 113/2021, nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia Selic, acumulado mensalmente. 
+Ante ao exposto, CONCEDO A SEGURANÇA para reconhecer a inexistência de relação jurídico-tributária entre as partes no que tange a demanda reservada de energia elétrica, ressaltando que o fato gerador é a potência efetivamente utilizada e DETERMINAR à requerida que restitua as diferenças apuráveis, nos últimos cinco anos, atualizas monetariamente.
+Servirá esta sentença como ofício à autoridade impetrada, dando-lhe conhecimento desta decisão para as providências necessárias. 
+Isenta de taxas e emolumentos, deixo de condenar a autoridade coatora a pagar honorários advocatícios em razão das Súmulas 512 do STF e 105 do STJ e artigo 25 da Lei n.º 12.016/09.
+Decisão sujeita à remessa necessária (art. 496, CPC). Oportunamente, remetam-se os autos ao Egrégio Tribunal de Justiça do Estado de São Paulo – Seção de Direito Público, nos termos do artigo 14, § 1.º, da Lei n.º 12.016/09. 
+No momento oportuno e feitas as anotações necessárias, arquivem-se os autos. 
+P.I.
+         Atibaia, 12 de dezembro de 2022.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

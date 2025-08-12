@@ -1,0 +1,194 @@
+1097164-07.2021.8.26.0100
+Classe: Dissolução Parcial de Sociedade
+Assunto: Ingresso e Exclusão dos Sócios na Sociedade
+Magistrado: Eduardo Palma Pellegrinelli
+Comarca: SÃO PAULO
+Foro: Foro Central Cível
+Vara: 2ª VARA EMPRESARIAL E CONFLITOS DE ARBITRAGEM
+Data de Disponibilização: 26/04/2022
+... oportunistas prejudiciais ao tráfico. O princípio do "pacta sunt servanda" mostra-se necessário ao giro mercantil na medida em que freia o natural oportunismo dos agentes econômicos" (op. cit. - grifado).
+
+Como já se decidiu:
+
+“PRELIMINAR - Ilegitimidade ad causam - Alegação em apelação, embora a matéria tenha sido decidida antes da sentença e ausente o recurso de agravo - ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de SÃO PAULO
+Foro Central Cível
+2ª VARA EMPRESARIAL E CONFLITOS DE ARBITRAGEM
+Praca Doutor Joao Mendes, S/N, São Paulo - SP - cep 01501-000
+Horário de Atendimento ao Público: das 13h00min às18h00min
+      
+1097164-07.2021.8.26.0100 - lauda 
+SENTENÇA
+
+Processo Digital nº:
+1097164-07.2021.8.26.0100
+Classe - Assunto
+Dissolução Parcial de Sociedade - Ingresso e Exclusão dos Sócios na Sociedade
+Requerente:
+Move On Compartilhamento de Veiculos Ltda. e outros
+Requerido:
+Indigoway Participações Ltda
+
+
+Tramitação prioritária
+
+Juiz(a) de Direito: Dr(a). Eduardo Palma Pellegrinelli
+
+
+
+Vistos.
+
+1. Relatório
+
+Trata-se de ação promovida por MOVE ON COMPARTILHAMENTO DE VEÍCULOS LTDA, FELIPE ESTEVES MARTINS NETTO e MARCUS AURÉLIO KOUYOMDJIAN contra INDIGOWAY PARTICIPAÇÕES LTDA visando a dissolução parcial da sociedade em razão da exclusão da ré, com a respectiva apuração de haveres e a condenação da ré à transferência de “toda a tecnologia do desenvolvimento do app e plataforma de gestão, sendo cedidos os códigos, projetos, processos e demais informações relativas ao desenvolvimento do projeto à autora e plataforma para ser utilizada pelas empresas clientes, no estado em que se encontra, para que a autora volte a comercializar seu negócio”, bem como ao pagamento de indenizações por danos materiais e morais (fls. 01/25 e 165).
+
+Alegam os autores, em síntese, que FELIPE, MARCUS e INDIGOWAY são únicos sócios de MOVE ON, “startup” no setor de mobilidade urbana, possuindo os dois primeiros 90% das cotas de capital social, cada um, e a terceira, 10% das cotas de capital social; que a ré adquiriu suas cotas no contexto de contrato de parceria comercial pactuado em 01/10/2018, o qual tinha por objeto o desenvolvimento de software para operacionalizar a atividade da autora, em duas etapas, com o desenvolvimento de aplicativo e plataforma de gestão na primeira, num prazo de 4 meses, ao fim dos quais haveria a cessão “[d]os códigos, projetos, processos e demais informações relativas ao desenvolvimento do projeto à [MOVE ON]” e a transferência de 10% das cotas da referida sociedade à ré, e, na segunda, o desenvolvimento de plataforma para consumidores finais, ao fim do que a participação societária da ré na MOVE ON seria elevada a 20%; que “[m]esmo com a ré não tendo cumprido com o prazo de entrega da primeira fase, o qual foi extrapolado em mais de 27 meses e até o momento não foi concluído, a autora, demonstrando boa-fé, transferiu 10% (dez por cento) de participação na sociedade, com a competente alteração do contrato social (13/03/2019)"; que o atraso gerou prejuízos pois “impediu [a MOVE ON] de fechar negócios” e gerou despesas acima das inicialmente previstas; que houve problemas na gestão das despesas e custos do projeto, geradas pela ré; e que a ré descumpriu a obrigação de transferência do código, projeto e demais informações do aplicativo, e da respectiva infraestrutura desenvolvida, passando também a exigir participação de 33% na MOVE ON e a condicionar a entrega do aplicativo desenvolvido à anuência dos autores quanto a essa exigência. Alegam, ademais, que, em abril de 2021, notificaram a parte ré para que “[a]presentasse inventario de todas as ferramentas, sistemas e documentações existentes e utilizados para o desenvolvimento, manutenção e correto funcionamento do produto e serviço da autora”, “[t]ransferisse o código fonte e todas as informações técnicas necessárias para a continuidade da operação e funcionamento do sistema” e devolvesse “[o] hardware da Otakey, o qual havia sido cedido em comodato”; que a ré se recusou a tomar as medidas solicitadas; e que, nesse contexto, ficou configurada a falta grave apta a justificar a exclusão da ré do quadro de sócios da MOVE ON e a condenação da ré a transferir a tecnologia desenvolvida no âmbito do contrato de parceria com a sociedade autora, bem como a ocorrência de danos morais e materiais passíveis de reparação em favor desta.
+
+A petição inicial foi instruída com documentos (fls. 26/157).
+
+Após a determinação de fls. 161, houve a emenda à petição inicial (fls. 165), instruída com documentos (fls. 166/176).
+
+Considerando as peculiaridades do caso, na mesma ocasião em que determinada a emenda, foi facultada à ré a manifestação sobre o pedido de tutela de urgência (fls. 161), sobrevindo o comparecimento espontâneo da ré (fls. 183/193), com manifestação instruída com documentos (fls. 194/208).
+
+Foi concedida a tutela de urgência “para determinar que a ré, em 05 dias contados da intimação desta decisão, transfira todo o desenvolvimento do app e plataforma de gestão, cedendo os códigos, projetos, processos e demais informações relativas ao desenvolvimento do projeto à autora e plataforma para ser utilizada pelas empresas clientes, no estado em que se encontra” (fls. 209/211).
+
+Houve manifestação da parte ré comprovando o cumprimento da tutela (fls. 216/217), instruída com documentos (fls. 218/309).
+
+Por ocasião da resposta (fls. 310/373), foi alegada, preliminarmente, a denunciação à lide dos terceiros Hélio Netto e Cléber Kouomdjian; e a falta de interesse processual. No mérito, foi alegado que o contrato de parceria pactuado entre as partes decorreu de “ingenuidade” da ré e conteria “condições exageradamente onerosas e unilateralmente vantajosas [para os autores]”; que a autora elaborou “unilateralmente” o “documento de “associação” (MOU)”, deixando de facultar “à Ré qualquer alteração posterior, como se se tratasse de contrato de adesão”; que a ré “inicialmente indicou pretender assinar; negou-se, posteriormente, em razão de “adequações” ou “ajustes” que pretendia fazer em seu próprio texto”; e que, por isso, “[n]unca houve um documento final, no qual as Partes Autora e Ré firmassem compromisso. Restaram o compromisso verbal e as promessas”. Alega, ademais, que, “[p]assados 3 anos, aproximadamente, quando o software se apresentava em fase de testes finais, (...)os Autores informaram a Ré que o documento, produzido por eles próprios e que não havia sido até então assinado, seria substituído por outro, a ser por eles unilateralmente elaborado”, vindo posteriormente a propor “um contrato denominado de “Contrato de Vesting”, no qual a Parte Autora propõe à Ré o aporte de mais um considerável montante de recursos financeiros em troca de contrapartida societária que já estava prevista no Memorando acima citado”; que “os sócios-fundadores da Autora contribuíram apenas com dicas e algumas orientações estéticas, já que não dispunham de conhecimento sobre software nem sobre hardware”, enquanto a ré “contribuiu com o conhecimento para o desenvolvimento do software e a integração do software ao hardware, além de custear mais de 50% das despesas totais”; que “conforme o próprio MOU estabelece em sua Cláusula II.1, a empresa Autora sequer seria a titular do resultado obtido pelo desenvolvimento do software. O “acordado” em tal documento seria a criação de uma nova pessoa jurídica para receber os recursos e os resultados de tal desenvolvimento, o que também não foi feito pelos Autores”; e que “[c]omo o MOU não foi cumprido, pois (i) a estrutura não foi criada (a Parte Autora decidiu por conta própria usar a própria MoveOn no negócio), (ii) o Acordo de Sócios, essencial para o negócio e para evitar a situação presente, nunca foi elaborado; (iii) o capital social não foi integralizado pela Parte Autora, (iv) a contabilidade da MoveOn nunca foi apresentada, quiçá elaborada, apesar da enorme insistência da Parte Ré nesse sentido; (v) as exigências suplementares, estéticas no app determinadas pela Parte Autora atrasaram as entregas e ampliaram os custos; e, (vi) a parte Autora estava exigido da Parte Ré novos aportes de recursos financeiros; a Parte Ré expressou sua consciência quanto onerosidade excessiva do Contrato a ela aplicado, o desejo de rever as condições acordadas com o cumprimento do Memorando de Entendimentos e, não obtendo sucesso em seu pleito, o desejo de deixar a sociedade, procedendo a dissolução parcial”. Foi alegado, por fim, que o terceiro Cléber Kouomdjian é sócio de fato da MOVE ON e “criou uma empresa para concorrer com a MoveOn, com o consentimento da Parte Autora”, em violação às obrigações de confidencialidade e não concorrência pactuada entre as partes; que, nesse contexto, “até que o processo seja encerrado é imprescindível que sobrevenha proibição de [atuação de Cléber] (...) em qualquer empresa cujo objeto social seja o mesmo da Move On”; que as partes “investiram cerca de R$ 180.000,00 (...) na Autora, de modo que o capital social deveria refletir tal inclusão de investimento”; que o contrato pactuado entre as partes especificou que apenas haveria a transferência do software após a conclusão deste, o que não ocorreu; que a gestão de despesas e custos do projeto era obrigação da sociedade autora e as alegações da ré quanto a falhas da ré quanto a essa gestão são genéricas e imprecisas; que a conduta da ré não causou danos de imagem aos autores, nem impediu a MOVE ON de pactuar negócios com potenciais clientes; que parte da documentação juntada aos autos pelos autores está infirmada por vícios; e que a sociedade autora seria única responsável pelos empréstimos tomados pela sociedade “após o início do conflito entre as partes”.
+
+A contestação foi instruída com documentos (fls. 374/470).
+
+Houve réplica (fls. 474/491), instruída com novos documentos (fls. 492/649).
+
+As partes especificaram provas (fls. 653/679 e 689/690).
+
+Houve nova manifestação da ré (fls. 680/688).
+
+É o relatório. Passo a decidir.
+
+2. Fundamentação
+
+Inicialmente, deve ser indeferida a denunciação à lide dos terceiros Hélio Netto e Cléber Kouomdjian, eis que não demonstrada a subsunção às hipóteses do art. 125 do CPC, e que não é possível que este juízo ignore a lei e o contrato social para reconhecer de forma incidental a eventual realidade informal, que pressupõe o manejo de ação própria, com observância ao devido processo legal, ao contraditório e à ampla defesa.
+
+Ademais, não conheço dos pedidos contrapostos formulados pela parte ré em sua contestação, para que sejam declaradas a “proibição de [atuação do terceiro Cléber Koumdjian] (...) em qualquer empresa cujo objeto social seja o mesmo da Move On”, bem como a “responsabilidade exclusiva da Parte Autora eventuais dívidas contraídas em nome da MoveOn após o início das tratativas de dissolução da Sociedade”, posto que não houve a propositura de reconvenção nos termos do art. 343 do CPC, de modo que sua apreciação implicaria violação aos princípios do devido processo legal, do contraditório e da ampla defesa.
+
+No mais, afasto a preliminar de falta de interesse processual, posto que esta se confunde com o mérito da demanda e será com ele apreciada.
+
+Superadas tais questões, está configurada a hipótese de julgamento antecipado da lide (art. 355, I, do CPC), na medida em que a matéria de fato está satisfatoriamente provada por documentos, e que as partes postularam expressamente o julgamento antecipado da lide (fls. 653/679 e 689/690).
+
+Pois bem.
+
+No caso em apreço, restou incontroverso que FELIPE ESTEVES MARTINS NETTO, MARCUS AURÉLIO KOUYOMDJIAN e INDIGOWAY PARTICIPAÇÕES LTDA são únicos sócios da MOVE ON COMPARTILHAMENTO DE VEÍCULOS LTDA, sendo os dois primeiros detentores de 45% das cotas do capital social, cada um, e a terceira, de 10% das cotas, o que também é demonstrado pela documentação acostada aos autos (fls. 33/41).
+
+Os autores pretendem a dissolução parcial da sociedade em razão da exclusão judicial de INDIGOWAY, decorrente da prática de faltas graves.
+
+E a INDIGOWAY alega que não houve a prática de faltas graves, mas, por outro lado, não se opôs à dissolução parcial em razão do exercício de seu direito de retirada, a qual foi, inclusive, o fundamento para a preliminar de falta de interesse processual, quanto à pretensão de dissolução parcial.
+
+Em tal contexto, à luz dos princípios da boa-fé, da razoabilidade, da proporcionalidade, da eficiência e da economia processuais, bem como do princípio da primazia do mérito (arts. 5º, 6º e 8º do CPC), é plenamente admissível a interpretação do pedido da parte autora como que contendo em si o pleito pela dissolução parcial em razão do exercício do direito de retirada.
+
+É que, das manifestações das partes (fls. 18, 322/323, 477/478), se extrai inequivocamente que, ao tempo em que ajuizada a ação, a ré já havia manifestado intenção de se retirar da sociedade, e apenas subsistiam divergências quanto a haveres, indenizações por danos e à transferência da posse do software desenvolvido pela ré para a MOVE ON.
+
+E, ante tal manifestação, da aplicação das regras dos incisos II e IV do art. 605 do CPC, decorre a conclusão lógica de que a data da resolução da sociedade em razão da retirada imotivada antecedeu a data pela qual se daria a resolução em razão da exclusão, considerando-se que aquela ocorreu 60 dias após o ajuizamento da ação, ocasionando a perda do objeto quanto à pretensão de exclusão judicial, a qual apenas se aperfeiçoaria por ocasião do trânsito em julgado da sentença de mérito.
+
+Nesse sentido, observa-se que o art. 1.029, caput e parágrafo único, do CC dispõe que “além dos casos previstos na lei ou no contrato, qualquer sócio pode retirar-se da sociedade; se de prazo indeterminado, mediante notificação aos demais sócios, com antecedência mínima de sessenta dias; se de prazo determinado, provando judicialmente justa causa”, sendo que “[n]os trinta dias subseqüentes à notificação, podem os demais sócios optar pela dissolução da sociedade”.
+
+A retirada de sócio "corresponde, em termos genéricos, ao direito que tem o sócio de voluntariamente deixar a sociedade. Em termos específicos, retirada é o direito que tem o sócio de resilir unilateralmente, ou seja, de denunciar sua relação com a sociedade, mediante o recebimento do reembolso de sua quota. Trata-se de ato unilateral, potestativo e receptício. É unilateral porque a iniciativa depende apenas de um dos lados da relação, no caso o sócio retirante. É potestativo porque sujeita a sociedade ao arbítrio do sócio. E é receptício porque seu aperfeiçoamento depende do recebimento da notificação de retirada pela sociedade, que não tem o direito de se opor" (Marcelo Guedes Nunes, in Tratado de Direito Comercial, coordenado pelo Professor Fábio Ulhoa Coelho, v. 6, pp. 230, São Paulo, Saraiva, 2015).
+
+Portanto, por aplicação da regra do art. 1.029 do CC e do art. 605, II, do CPC, a retirada de INDIGOWAY se aperfeiçoou 60 dias após o ajuizamento da ação, quando os sócios remanescentes e a sociedade manifestaram ciência inequívoca da pretensão da ré, sendo, portanto, de rigor a procedência dos pedidos autorais de dissolução e apuração de haveres.
+
+Em outros termos, será considerada data-base para apuração de haveres e dissolução parcial da sociedade o dia 09/11/2021. 
+
+Como já decidiu o Egrégio Tribunal de Justiça, em situação similar:
+
+"AGRAVO DE INSTRUMENTO. TUTELA PROVISÓRIA DE URGÊNCIA ANTECEDENTE. DISSOLUÇÃO PARCIAL DE SOCIEDADE. MÉRITO. Autora, agravante, que exerceu o direito de retirada mediante notificação do sócio restante, com antecedência mínima de 60 dias, nos termos do art. 1.029, caput, do CC. DATA DE RETIRADA. A retirada do sócio se dá após a decorrência dos 60 dias previstos no art. 1.029 do CC (art. 605, II, do CPC/15), tempo estimado para a reorganização social. Tutela concedida. Decisão reformada. Recurso provido" (TJSP - 1ª Câmara Reservada de Direito Empresarial – AI n. 2028795-55.2018.8.26.0000 – rel. Des. Hamid Bdine – j. 12/03/2018).
+
+Já em relação ao critério para a apuração dos haveres, por força do art. 1.031, caput, do CC, dos arts. 600, parágrafo único, e 606, caput, do CPC, é aplicável a regra da cláusula 10ª do contrato social, que estipula que “[n]o caso de um dos sócios desejar retirar-se da sociedade, deverá notificar os outros, por escrito, com antecedência mínima de 60 (...) dias, e seus haveres, apurados em balanço especial, serão pagos em 20 (...) prestações mensais, vencendo -se a primeira após 60 (...) dias da data do balanço especial” (fls. 39).
+
+É importante salientar que "Quando da retirada voluntária ou forçada de dado sócio, será imperioso apurar qual o preciso valor de sua quota, restituindo-o ao patrimônio de onde provieram os valores destinados à integralização do capital. O próprio contrato social pode conter uma disposição particular e concreta com respeito a tal procedimento e, nesse caso, sua prevalência é inquestionável" (Marcelo Fortes Barbosa Filho, Código Civil Comentado, coordenado por Cezar Peluzo, 9ª ed., pp. 977/978, Barueri, Manole, 2015).
+
+Mas, tem-se que a cláusula se mostra imprecisa, pelo que será interpretada conforme a lição de Fábio Ulhoa Coelho, “[e]m relação ao critério de apuração de haveres, o juiz deve se ater estritamente ao contrato social. Se o acordado entre os sócios é a avaliação das quotas, no momento da dissolução parcial, por determinado critério, não pode o Poder Judiciário deixar de prestigiar esta vontade, negando eficácia ao encontro de vontades. Mesmo sendo o instrumento omisso, também não cabe ao juiz definir livremente o critério. Em caso de omissão, o critério é o estabelecido pelo art. 1031 do Código Civil, reproduzido, com pequena correção de ordem técnica, pelo art. 606 do CPC; vale dizer, o do valor patrimonial real, derivado do BPD”. (COELHO, Fabio Ulhoa, in Processo Societário, v. 3, coordenado pelos professores Flávio Luiz Yarshell e Guilherme Setoguti J. Pereira, São Paulo: Quartier Latin, 2018, p. 153)
+
+Nesse âmbito, é importante salienta que “[o] terceiro e último tipo de balnaço patrimonial é o de determinação (BPD). Ele pode ter por referência temporal qualquer dia do exercício, inclusive o último ano. O que distingue dos demais tipos de balanço são os critérios de apropriação dos bens e direitos do ativo (e, em alguns casos, também do passivo). Nele, o contador deita ao lago os parâmetros ditados pelo princípio do conservadorismo e contabiliza cada item pelo valor de mercado ou de custa de saída; isto é, pelo valor que cada bem ou direito da sociedade tem ou teria, caso fosse vendido. A frota de veículos, por exemplo, é contabilizada pelo custo de aquisição, com as depreciações legais, no BPO e BPE; no BPD, faz-se a reavaliação dos veículos e eles são apropriados pelo quanto a sociedade receberia caso decidisse, naquela data, vendê-los. O BPD também deve levar em conta os intangíveis da sociedade e apropriá-los como ativos, pelo valor que teriam no mercado, caso fossem negociados”; e que “[o] BPD, em suma, é o instrumento de uma simulação, de uma projeção, de uma estimativa. Ele simula, projeta, estima como seria a liquidação da sociedade, caso se tratasse de dissolução total, e não parcial. Na liquidação, todos os bens do ativo seriam vendidos e, após a cobrança de todos os devedores da sociedade, seriam pagos os credores, partilhando-se, então, entre os sócios, o acervo remanescente. O BPD mensura quanto seria este acervo remanescente (patrimônio líquido), caso acontecesse, naquele momento, a dissolução total da sociedade. O BPD não interfere com a contabilidade regular da sociedade; quando chegar o momento de se levantar o BPO seguinte, o contador deve simplesmente ignorar o BPD”, sendo que “[o] valor patrimonial das quotas fixada a partir de um BPD é designado “real”. (COELHO, Fabio Ulhoa, in Processo Societário, v.3, coordenado pelos professores Flávio Luiz Yarshell e Guilherme Setoguti J. Pereira, São Paulo: Quartier Latin, 2018, p. 164-165).
+
+Portanto, para apuração de haveres de INDIGOWAY, deverá ser adotado o critério do art. 606 do CPC, ou seja, o valor patrimonial apurado em balanço de determinação, tomando por referência a data da resolução e avaliando-se bens e direitos do ativo, tangíveis e intangíveis, a preço de saída, além do passivo também a ser apurado de igual forma.
+
+E, sendo o contrato social impreciso sobre o procedimento de retirada de sócio, porém não quanto à forma de pagamento, o processo de pagamento à retirante deverá seguir o procedimento do art. 1031 do Código Civil, ajustado de acordo com as disposições do contrato social e, desse modo, INDIGOWAY deverá receber 10% do patrimônio líquido da MOVE ON, a serem pagos em 20 parcelas mensais e sucessivas, a primeira vencendo 60 dias após a data-base do balanço.
+
+Sobre o valor apurado deverá incidir correção monetária e juros de mora, valendo destacar que “[j]á está consolidado o entendimento neste Tribunal e no E. STJ de que, em caso de dissolução parcial de sociedade, a correção monetária deve incidir a partir da data-base fixada para apuração de haveres (setembro de 2014), enquanto que os juros somente devam incidir a partir da citação” (Ap. N. 0008436-18.2011.8.26.0000, rel. Des. Ricardo Negrão, j. 16.10.2012. AgRg no Ag 1079418, rel. Min. Massami Uyeda, j. 5.3.2009; EREsp 564711, rel. Min. Ari Pargandler, j. 27.6.2007)” (TJSP - 1ª Câmara Reservada de Direito Empresarial - AI n. 2228876-88.2016.8.26.0000 - rel. Des. Hamid Bdine - j. 26/05/2017). 
+
+Como já decidiu o Egrégio Tribunal de Justiça: 
+
+“(...) MODO DE APURAÇÃO DE HAVERES E DOS DIVIDENDOS. Realização com base no valor real da sociedade (artigo 1031 do Código Civil, por analogia), mediante perícia. Precedentes citados. Valores que deverão ser apurados em liquidação de sentença de forma ampla e atualizada. Os haveres são apurados como se de dissolução total se tratasse. Afastada a valoração das ações em regime de leilão. Vedação de enriquecimento ilícito. JUROS DE MORA. Aplica-se a Súmula 163 do STF [“salvo contra a Fazenda Pública, sendo a obrigação ilíquida, contam-se os juros moratórios desde a citação inicial para a ação”]. Precedentes do STJ nesse sentido. Na ação de apuração de haveres resultante de dissolução parcial da sociedade, os juros incidentes sobre o montante da condenação fluem a partir da citação inicial. Correção monetária incide a partir do arbitramento (data base em que será realizada a perícia). HONORÁRIOS. Quanto aos honorários permanecem os fixados na sentença” (TJSP - 1ª Câmara Reservada de Direito Empresarial - Ap. 1043922-46. 2015.8.26.0100 - rel. Des. Enio Zuliani - j. 31/08/2016).
+
+No mais, não tendo havido resistência de INDIGOWAY em relação à pretensão de dissolução parcial da sociedade e da apuração de haveres, por aplicação da regra do art. 603, § 1º, do CPC, com relação ao pleito de dissolução frente a ele, não haverá condenação ao pagamento de honorários advocatícios, sendo que as custas e despesas processuais serão divididas na proporção da participação no capital social, que, no caso, é de 45% para FELIPE e MARCUS, e de 10% para INDIGOWAY.
+
+Como destaca Ricardo Collucci, "Na mesma linha do art. 90, § 4º, o § 1º, do art. 603, estabelece verdadeiro incentivo à renúncia ao litígio, agraciando as partes com a isenção de honorários advocatícios e estabelecendo profícua e oportuna regra quanto à divisão das custas processuais, na qual a sociedade, corretamente, não participa" (in Comentários ao Código de Processo Civil, coordenado por Cássio Scarpinella Bueno, v. 3, pp.164/165, São Paulo, Saraiva, 2017).
+
+Como já decidiu o Egrégio Tribunal de Justiça:
+
+"AGRAVO DE INSTRUMENTO. DISSOLUÇÃO PARCIAL DE SOCIEDADE E APURAÇÃO DE HAVERES. JULGAMENTO PARCIAL DE MÉRITO. PRELIMINAR. PRECLUSÃO CONSUMATIVA. Inocorrência. Oposição de embargos de declaração interrompe o prazo para interposição de recurso. Agravo que deve ser conhecido. MÉRITO. DATA DE RETIRADA DO AGRAVADO DA SOCIEDADE. A retirada do sócio se dá após a decorrência dos 60 dias previstos no art. 1.029 do CC (art. 605, II, do CPC/15), tempo estimado para a reorganização social. Decisão reformada. ANTECIPAÇÃO DE HAVERES. Controvérsia. Necessidade de se aguardar a conclusão da fase de liquidação de haveres já iniciada. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. Concordância expressa com o pedido de dissolução parcial da sociedade. Honorários indevidos pelos agravantes. Decisão reformada. Recurso provido" (TJSP - 1ª Câmara Reservada de Direito Empresarial - AI n. 2220100-02.2016.8.26.0000 - rel. Des. Hamid Bdine - j. 26/05/201 - grifado).
+
+Por outro lado, com relação ao pleito pela condenação da ré à transferência de “toda a tecnologia do desenvolvimento do app e plataforma de gestão, sendo cedidos os códigos, projetos, processos e demais informações relativas ao desenvolvimento do projeto à autora e plataforma para ser utilizada pelas empresas clientes, no estado em que se encontra, para que a autora volte a comercializar seu negócio”, há que se reconhecer a procedência da demanda.
+
+A propósito, o memorando de entendimentos de fls. 42/49 e 50/55 demonstra que, em 01/10/2018, as partes contrataram o ingresso da INDIGOWAY como sócia da MOVE ON, com o aumento progressivo na participação societária (inicialmente 10% e depois 20%), mediante o desenvolvimento de tecnologia relacionada ao aplicativo da autora.
+
+E, embora a ré alegue que inexistiu “um documento final, no qual as Partes Autora e Ré firmassem compromisso”, observa-se que ambos os referidos documentos estão regularmente assinados por representantes da ré, ressaltando-se que a veracidade das referidas assinaturas não foi objeto de qualquer tipo de impugnação, e que eventuais “adequações”, “ajustes” ou o distrato do negócio necessariamente teriam que ser feitos em forma escrita, a teor do disposto no art. 472 do CC. 
+
+Além disso, também diversamente do alegado pela ré, observa-se que em momento algum foi pactuada “a criação de uma nova pessoa jurídica para receber os recursos e os resultados [do desenvolvimento do software que é objeto do feito]”, mas sim “a entrada da [ré] como sócia da MOVE ON, para desenvolvimento da plataforma de software (front end e back end) que suportarão a operação de car sharing e soluções de mobilidade” (fls. 43 – “Considerando (C)”).
+
+Por outro lado, vê-se que as partes se comprometeram “a ceder os códigos, direitos, projetos, processos e demais informações relativas ao desenvolvimento do projeto move on à MOVE ON, o qual a INDIGOPAR se tornará sócia” e estipularam que "...a propriedade intelectual, fruto do desenvolvimento que será realizado, será de propriedade da MOVE ON" (fls. 47, cláusula VI.1).
+
+Outrossim, como já visto, a INDIGOWAY se tornou titular de 10% da MOVE ON (fls. 33/41), que são objeto da presente ação de dissolução.
+
+Nesse contexto, as partes divergem sobre a existência de onerosidade excessiva do contrato, bem como o inadimplemento de obrigações dos autores estabelecidas nos instrumentos de fls. 42/49 e 50/55, a ensejar a sua modificação, com retenção do software desenvolvido pela ré.
+
+A propósito, a ré alegou que o negócio foi elaborado “unilateralmente” pelos autores e conteria “condições exageradamente onerosas e unilateralmente vantajosas [para os autores]”, e que “os sócios-fundadores da Autora contribuíram apenas com dicas e algumas orientações estéticas, já que não dispunham de conhecimento sobre software nem sobre hardware”, enquanto a ré “contribuiu com o conhecimento para o desenvolvimento do software e a integração do software ao hardware, além de custear mais de 50% das despesas totais”.
+
+Entretanto, essas alegações da ré carecem de fundamento fático e jurídico.
+
+Não há nos autos quaisquer indícios documentais de que o contrato foi unilateralmente redigido e imposto à ré, e possa ser considerado contrato por adesão, além do que observa-se que o contrato pactuado entre as partes tem natureza empresarial.
+
+E, como ensina Paula Forgioni, o funcionamento do mercado exige que os pactos sejam respeitados, de forma que "A força obrigatória dos contratos viabiliza a existência do mercado, coibindo o oportunismo indesejável das empresas" (in Contratos Empresariais. Teoria e Aplicação, 3ª ed., pp. 109/112, São Paulo, RT, 2018).
+
+Ainda sobre o pacta sunt servanda, a Professora aponta que "Se lhes fosse permitido, os agentes econômicos valer-se-iam dos contratos para vincular apenas seus parceiros comerciais, e nunca a si próprios. No momento inicial, as partes creem que o negócio ser-lhes-á vantajoso; todavia, com o passar do tempo, é possível que o vínculo deixe de interessar a uma delas. Nasce anseio de se livrar da amarra contratual para seguir outro caminho. Partindo dessa premissa, compreende-se a importância sistêmica da força vinculante dos contratos; na sua ausência, seria impossível a coibição do descumprimento da palavra empenhada e o desestímulo de comportamentos oportunistas prejudiciais ao tráfico. O princípio do "pacta sunt servanda" mostra-se necessário ao giro mercantil na medida em que freia o natural oportunismo dos agentes econômicos" (op. cit. - grifado).
+
+Como já se decidiu:
+
+“PRELIMINAR - Ilegitimidade ad causam - Alegação em apelação, embora a matéria tenha sido decidida antes da sentença e ausente o recurso de agravo - Possibilidade - Ilegitimidade passiva do co-réu - Inocorrência - Parte que figura no contrato que se pretende rescindir- Preliminar rejeitada. CONTRATO DE FRANQUIA - Rescisão por inadimplemento contratual - Admissibilidade - Nulidade - Inocorrência - Autora era titular da marca, cujo direito de uso foi cedido aos réus - Transferência de "know how" - Ocorrência - O "know how" liga-se à ideia de organização da atividade empresarial, transferida a quem não tem os conhecimentos técnicos para ter o sucesso no empreendimento (o franqueado), que pode ou não envolver um segredo ou uma originalidade - Descumprimento do dever de prestar contas por parte da autora - Inocorrência - Além de haver prova das reuniões mensais onde os balanços seriam apresentados, os réus jamais questionaram os valores cobrados - Não podem os réus, após mais de um ano de vigência do contrato, alegar o fato apenas para se furtar às suas obrigações, sob pena de contrariar o princípio da boa-fé objetiva, que rege todas as relações contratuais - Cláusulas abusivas - Inexistência - Contrato válido deve ser cumprido, em obediência ao princípio do pacta sunt servanda - Inaplicabilidade do CDC em contratos de franquia - Precedentes - Ação, procedente - Sentença deve ser confirmada pelos seus próprios fundamentos, inteiramente adotados como razão de decidir, nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. SENTENÇA - Julgamento ultra petita - Ocorrência - Nulidade restrita ao tópico do dispositivo que determinou a apuração dos valores devidos pelos réus a autora com base na média dos valores pagos nos seis meses anteriores ao início do inadimplemento, por ter extrapolado o pedido. HONORÁRIOS DE ADVOGADO - Fixação em R$ 15.000,00 - Redução - Inviabilidade. Recurso parcialmente provido.” (TJSP - 20ª Câmara de Direito Privado - Ap. n. 9195007-30.2007.8.26.0000 - rel. Des. Álvaro Torres Júnior - j. 15/08/2011).
+
+Ressalte-se, ademais, que a ré não acostou aos autos evidências documentais de que tenha se insurgido de forma consistente e fundamentada quanto aos alegados desequilíbrio contratual e inadimplementos contratuais, ou de que estes últimos tenham ocorrido na forma alegada, por exemplo, com atrasos no desenvolvimento do software causados pela autora em razão de “exigência suplementares” e que tivessem superado o fortuito interno inerente ao risco da atividade das partes.
+
+E, por outro lado, há diversos e-mails acostados pelos autores que evidenciam que a ré passou a postular a renegociação dos termos contratuais para ampliação de sua participação societária apenas em meados de 2020, após cerca de dois anos de execução do contrato, e que foi em resposta a postulação que foi proposto “contrato de vesting” e o aporte de recursos adicionais, em contrapartida à majoração da participação da ré (fls. 115 e 103/108, dentre outros).
+
+Nesse contexto, a conduta da ré representa verdadeira violação ao princípio da boa-fé à luz do qual devem ser interpretados os negócios jurídicos, aos quais deve ser atribuído o sentido “confirmado pelo comportamento das partes posterior à celebração do negócio” (art. 113, II, do CC).
+
+Assim, não há que se falar em onerosidade excessiva, e a ré não se desincumbiu de seu ônus quanto à prova dos inadimplementos contratuais apontados, restando portanto a procedência da demanda quanto ao pleito pela condenação da ré à transferência de “toda a tecnologia do desenvolvimento do app e plataforma de gestão, sendo cedidos os códigos, projetos, processos e demais informações relativas ao desenvolvimento do projeto à autora e plataforma para ser utilizada pelas empresas clientes, no estado em que se encontra, para que a autora volte a comercializar seu negócio”.
+
+Por fim, observo que não foram demonstrados os danos materiais e morais passíveis de reparação em favor da parte autora, ressaltando-se que o inadimplemento de obrigações contratuais por parte da ré constitui mero dissabor do cotidiano, e que, a despeito da juntada de e-mails pontuais que evidenciam pedidos de orçamentos por clientes (fls. 129/133, 134/136 e 137, dentre outros), por si sós, tais documentos não são suficientes para comprovar que a MOVE ON tenha deixado de pactuar qualquer dos referidos negócios ou inadimplido contratos com terceiros em razão da conduta da ré.
+
+Nesse sentido, o precedente do E. Tribunal de Justiça:
+
+Contrato de trespasse de estabelecimento comercial. Ação de cobrança ajuizada pela cedente contra a cessionária. Sentença de parcial procedência, com condenação da ré em multa por litigância de má-fé. Apelações de ambas as partes. Mora da ré no pagamento da última parcela, ensejando a aplicação da cláusula penal. Cabimento, entretanto, de redução proporcional da multa, nos termos do art. 413 do Código Civil. Multa por litigância de má-fé. Ré que buscou alterar a verdade dos fatos. Violação aos deveres de colaboração e de lealdade processuais. Danos morais. Inexistência de violação aos direitos da personalidade da autora. Mero inadimplemento contratual não enseja indenização. Honorários de advogado contratuais. Entendimento consolidado no STJ no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora, ressalvada a posição pessoal deste relator. Reforma parcial da sentença recorrida Apelação da ré parcialmente provida e da autora desprovida.
+(TJSP;  Apelação Cível 1002022-29.2019.8.26.0396; Relator (a): Cesar Ciampolini; Órgão Julgador: 1ª Câmara Reservada de Direito Empresarial; Foro de Novo Horizonte - 2ª Vara; Data do Julgamento: 17/12/2020; Data de Registro: 17/12/2020)
+
+3. Dispositivo
+
+Diante do exposto, julgo parcialmente procedente a ação para:
+determinar a extinção do processo nos termos do art. 487, I, do CPC;
+declarar ter havido a retirada de INDIGOWAY PARTICIPAÇÕES LTDA da sociedade MOVE ON COMPARTILHAMENTO DE VEÍCULOS LTDA em 09/11/2021, com a consequente dissolução parcial da sociedade;
+determinar que a data-base para a apuração de haveres de INDIGOWAY PARTICIPAÇÕES LTDA é a data em que se aperfeiçoou a retirada;
+determinar que para a apuração de haveres de INDIGOWAY PARTICIPAÇÕES LTDA deverá ser adotado o critério do valor patrimonial apurado em balanço de determinação, bem como do valor avaliado dos bens e direitos ativos, tangíveis e intangíveis, a preço de saída e o do passivo a ser apurado de igual forma, levantado à data da resolução, sendo que o pagamento deverá ser realizado em vinte parcelas mensais e sucessivas, com o vencimento da primeira 60 dias após data-base do balanço de determinação (art. 1031, §2º, do Código Civil);
+determinar que sobre o valor eventualmente devido a INDIGOWAY PARTICIPAÇÕES LTDA deverá incidir correção monetária pelos índices de tabela prática deste E. Tribunal de Justiça, a partir da data-base fixada para a apuração dos haveres, além de juros de mora de 1% ao mês, contados da data do comparecimento espontâneo (24/09/2021 – fls. 183/193);
+com relação ao pedido de condenação da ré ao pagamento de indenizações por danos materiais e morais, julgar improcedente a ação;
+condenar a ré a transferir à autora MOVE ON “toda a tecnologia do desenvolvimento do app e plataforma de gestão, sendo cedidos os códigos, projetos, processos e demais informações relativas ao desenvolvimento do projeto à autora e plataforma para ser utilizada pelas empresas clientes, no estado em que se encontra, para que a autora volte a comercializar seu negócio”;
+por aplicação da regra do art. 603, § 1º, do CPC, com relação ao pleito de dissolução parcial e apuração de haveres, não haverá condenação ao pagamento de honorários advocatícios, sendo que as custas e despesas processuais proporcionais a tais pleitos serão divididas na proporção da participação no capital social, que, no caso, é de 45% para FELIPE e MARCUS, e de 10% para INDIGOWAY.
+Condenar os autores ao pagamento das custas e de honorários advocatícios fixados em 10% do valor da causa equivalente à pretensão indenizatória formulada perante INDIGOWAY (R$ 239.574,71 a título de indenização por danos materiais e morais), com fundamento no art. 85, §§2º e 6º, do CPC. Observo que em relação às custas e às despesas processuais, haverá a incidência de correção monetária pelos índices da tabela prática do Egrégio Tribunal de Justiça, a partir de cada adiantamento, bem como de juros de mora de 1% ao mês, a partir do trânsito em julgado da condenação. Em relação aos honorários advocatícios, haverá a incidência de correção monetária pelos índices da tabela prática do Egrégio Tribunal de Justiça, a partir da data da propositura da ação, bem como de juros de mora de 1% ao mês, a partir do trânsito em julgado.
+
+Publique-se. Registra-se. Intime-se. Cumpra-se.
+
+São Paulo, 25 de abril de 2022.
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

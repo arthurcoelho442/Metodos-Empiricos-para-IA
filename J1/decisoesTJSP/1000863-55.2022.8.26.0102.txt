@@ -1,0 +1,90 @@
+1000863-55.2022.8.26.0102
+Classe: Habeas Corpus Criminal
+Assunto: Habeas Corpus - Cabimento
+Magistrado: GABRIEL ARAÚJO GONZALEZ
+Comarca: Cachoeira Paulista
+Foro: Foro de Cachoeira Paulista
+Vara: 1ª Vara
+Data de Disponibilização: 26/08/2022
+... à investigação pelo tráfico de drogas (1500016-98.2019.8.26.0102), sobretudo porque havia notícias do envolvimento do paciente com o tráfico de drogas, inclusive com utilização do veículo apreendido na investigação pelo homicídio.
+Além disso, uma das hipóteses suscitadas na investigação do homicídio era a sua ligação ao tráfico de drogas, a justificar a ligação ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA DE de Cachoeira Paulista
+1ª Vara
+Praça Prefeito Prado Filho, s/nº, ., Centro - CEP 12630-000, Fone: (12) 3101-1424, Cachoeira Paulista-SP - E-mail: cachpta@tjsp.jus.br
+
+1000863-55.2022.8.26.0102 - lauda 
+SENTENÇA
+
+Processo Digital n. 
+1000863-55.2022.8.26.0102
+Classe - Assunto
+Habeas Corpus Criminal - Habeas Corpus - Cabimento
+Impetrante e Paciente (Ativo):
+Felipe da Silva Barros Capucho e outro
+Impetrado:
+Delegado Mario Celso Ribeiro Senne
+
+
+Tramitação prioritária
+
+
+Juiz(a) de Direito: Dr(a).  GABRIEL ARAÚJO GONZALEZ 
+
+Trata-se de habeas corpus impetrado por FELIPE DAS SILVA BARROS CAPUCHO em favor de JOÃO ANTÔNIO DA SILVA NETO, tendo como autoridade coatora o Delegado da Polícia Civil de Cachoeira Paulista, Dr. MÁRIO CELSO RIBEIRO SENNE.
+Às fls. 288/289, foi proferida decisão que indeferiu a medida liminar requerida.
+Às fls. 302/304, a autoridade coatora apresentou informações.
+Às fls. 307/310, o MP se manifestou, no sentido da denegação da ordem.
+É o relatório. Passo a decidir.
+Do mérito – do habeas corpus
+O art. 5º, LXVIII, da CF, consagra o habeas corpus como um remédio constitucional a amparar aquele que está sofrendo ou estiver ameaçado de sofrer “violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder”:
+Art. 5º, LXVIII - conceder-se-á "habeas-corpus" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
+
+O CPP, por sua vez, repete o cabimento do habeas corpus e detalha algumas hipóteses de cabimento:
+Art. 647.  Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar.
+Art. 648.  A coação considerar-se-á ilegal:
+I - quando não houver justa causa;
+II - quando alguém estiver preso por mais tempo do que determina a lei;
+III - quando quem ordenar a coação não tiver competência para fazê-lo;
+IV - quando houver cessado o motivo que autorizou a coação;
+V - quando não for alguém admitido a prestar fiança, nos casos em que a lei a autoriza;
+VI - quando o processo for manifestamente nulo;
+VII - quando extinta a punibilidade.
+
+No caso concreto, o impetrante afirma que as ilegalidades residem na: a) invasão do domicílio de EVERTON; b) utilização de informações colhidas na investigação de homicídio para a investigação de tráfico de drogas; c) há negativa na restituição de bens e valores apreendidos durante a persecução penal ligada ao homicídio, que resultou na absolvição do paciente;
+A tese não merece prosperar.
+Inicialmente, a questão ligada à restituição dos bens e valores não envolve o direito à locomoção, de sorte que não é amparado por habeas corpus. Além disso, as medidas em questão estão sendo decididas no bojo dos autos do homicídio (1500644-24.2018.8.26.0102), como indicado pelo próprio impetrante (fls. 6/7), inclusive com decisão favorável ao paciente.
+Com relação às demais irregularidades narradas, reitero o exposto na decisão de fls. 288/289.
+Em primeiro lugar, não há nenhuma ilegalidade na simples juntada do B.O. de fls. 33/37 (oriundo da persecução penal do homicídio - 1500644-24.2018.8.26.0102) à investigação pelo tráfico de drogas (1500016-98.2019.8.26.0102), sobretudo porque havia notícias do envolvimento do paciente com o tráfico de drogas, inclusive com utilização do veículo apreendido na investigação pelo homicídio.
+Além disso, uma das hipóteses suscitadas na investigação do homicídio era a sua ligação ao tráfico de drogas, a justificar a ligação entre as investigações.
+Como se vê à fl. 27/29, a depoente ROZELI, em 28/11/2018, relatou o suposto envolvimento de EVERTON e o paciente (JOÃO ANTONIO - "MARCELO") no tráfico de drogas, com a utilização do Honda Civic apreendido no B.O de fls. 33/38.
+Assim, não há ilegalidade no compartilhamento das informações entre as investigações, que, inclusive, eram conduzidas pela mesma autoridade policial.
+Em segundo lugar, quanto ao domicílio de EVERTON, não há dados, nesse momento, para reconhecer a ilegalidade defendida, pois há relatos policiais de denúncia anônima sobre a presença de drogas no local, como se vê às fls. 18/19, o que permitiria o ingresso no domicílio mesmo sem autorização.
+Por fim, não há que se falar no trancamento do inquérito policial.
+Como se sabe, o trancamento do inquérito policial é uma medida excepcional, que exige a comprovação, pelo impetrante, de uma investigação abusiva:
+“De modo a não se incorrer no risco de coarctar as atividades próprias da polícia investigativa e do Ministério Público, inviabilizando a apuração de condutas delituosas, o trancamento do inquérito policial deve ser realizado como medida de natureza excepcional, que só é possível quando evidente o constrangimento ilegal sofrido pelo investigado, nas seguintes hipóteses:
+a) manifesta atipicidade formal ou material da conduta delituosa (....);
+b) presença de causa extintiva da punibilidade (...);
+c) instauração de inquérito policial em crime de ação penal de iniciativa privada ou de ação penal pública condicionada à representação, sem prévio requerimento do ofendido ou de seu representante legal (...)” (LIMA, Renato Brasileiro. Manual de processo penal: volume único. Salvador: Juspodivm, 2020, p. 256/257) (grifos acrescidos)
+
+A jurisprudência também admite o trancamento da investigação quando manifesta a ausência de justa causa:
+HABEAS CORPUS – Trancamento da ação penal – Apropriação indébita – Ataque ao recebimento da denúncia – Manutenção do recebimento da denúncia após ter o próprio Juízo indicado a ausência de indícios mínimos de autoria com relação ao paciente – Falta de justa causa à ação penal que se mostra flagrante (art. 395, III, do CPP) – Excepcionalidade da situação apresentada e comprovada documentalmente que impõe o trancamento da ação penal – Ordem concedida - (voto n.º 44502). 
+(TJSP;  Habeas Corpus Criminal 2091469-64.2021.8.26.0000; Relator (a): Newton Neves; Órgão Julgador: 16ª Câmara de Direito Criminal; Foro de Piracaia - 2ª Vara; Data do Julgamento: 31/05/2021; Data de Registro: 31/05/2021) (grifos acrescidos)
+
+No caso concreto, não há comprovação de nenhuma das causas mencionadas e há relatos de que o paciente exercia o tráfico de drogas, cujas investigações podem ser aprofundadas pela autoridade policial s
+Por isso, o caso é de denegação da ordem.
+
+Dispositivo
+Diante do exposto, denego a ordem requerida.
+Sem condenação em custas e honorários, nos termos do art. 5º, LXXVII, da CF.
+Dê-se ciência à autoridade policial.
+Atribuo força de ofício e mandado à presente decisão.
+Após o trânsito em julgado e adotadas as cautelas de estilo, dê-se baixa.
+Int.
+
+Cachoeira Paulista,26 de agosto de 2022.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

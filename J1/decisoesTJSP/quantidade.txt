@@ -1,0 +1,4 @@
+2910 roubo_simples
+982 roubo_majorado
+1127 furto_simples
+1570 furto_qualificado

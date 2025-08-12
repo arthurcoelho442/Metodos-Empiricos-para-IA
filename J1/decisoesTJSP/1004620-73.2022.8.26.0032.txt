@@ -1,0 +1,110 @@
+1004620-73.2022.8.26.0032
+Classe: Procedimento Comum Cível
+Assunto: Seguro
+Magistrado: MARCELO YUKIO MISAKA
+Comarca: Araçatuba
+Foro: Foro de Araçatuba
+Vara: 5ª Vara Cível
+Data de Disponibilização: 28/02/2023
+... EM SUBROGAÇÃO LEGAL DECORRENTE DE FURTO DE VEÍCULO SEGURADO EM ESTACIONAMENTO - SENTENÇA DE PROCEDÊNCIA DESPROVIMENTO DE RECURSO DE APELAÇÃO INTERPOSTO PELA RÉ. INSURGÊNCIA DA EMPRESA ADMINISTRADORA DO ESTACIONAMENTO. (...) 2. Incide o Código de Defesa do Consumidor na relação entre a seguradora - que se sub-rogou nos direitos da segurada - e a sociedade empresária administradora de ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de Araçatuba
+Foro de Araçatuba
+5ª Vara Cível
+Praça Dr. Maurício Martins Leite, 60, Araçatuba - SP - cep 16015-600
+Horário de Atendimento ao Público: das 13h00min às17h00min
+      
+1004620-73.2022.8.26.0032 - lauda 
+SENTENÇA
+
+Processo Digital nº:
+1004620-73.2022.8.26.0032
+Classe - Assunto
+Procedimento Comum Cível - Seguro
+Requerente:
+Tokio Marine Seguradora S/A
+Requerido:
+Companhia Paulista de Força e Luz
+
+
+
+
+
+Juiz(a) de Direito: Dr(a). MARCELO YUKIO MISAKA
+
+Vistos
+Trata-se de ação regressiva de ressarcimento de danos ajuizada pela parte-autora em face de COMPANHIA PAULISTA DE FORÇA E LUZ (CPFL). Alega, em síntese, que celebrou com o segurado descrito na inicial contrato de seguro na modalidade residencial, onde se obrigou, mediante o recebimento do prêmio, a garantir o risco do imóvel da parte segurada. Ocorre que o imóvel foi afetado por um distúrbio elétrico, proveniente da rede de distribuição administrada pela Ré, que ensejou danos aos bens eletroeletrônicos que guarneciam o referido imóvel. Assim, ingressou com a presente ação, pedindo o ressarcimento da quantia desembolsada em favor da parte segurada e descritas na exordial. 
+
+Citada, a requerida apresentou contestação. Preliminarmente alegou inépcia da inicial, falta de interesse de agir, ilegitimidade passiva. No mérito sustentou, em suma, que não houve comprovação dos danos materiais causados, uma vez que a seguradora autora não manteve os aparelhos danificados para comprovar os danos. Afirma ainda que não há nexo de causalidade entre a conduta da ré e os alegados danos, uma vez que não houve falha na prestação do serviço, devendo eventual dano ser atribuído à rede elétrica da casa do consumidor. Ademais, o evento foi causado por força maior, consistente em descarga atmosférica/chuva forte, o que exclui a responsabilidade, nos termos do art. 37, §6º da CF. Pediu ainda a realização de prova pericial técnica. Finalmente afirmou que já houve a prescrição da pretensão da parte autora, uma vez que os danos ocorreram no ano de 2016, de sorte que já se operou o prazo prescricional de um ano, estabelecido no artigo 206, § 1º, II, “a” do CC. Assim, pediu a improcedência do pedido inicial, com a condenação da parte autora ao pagamento das despesas processuais e honorários advocatícios.
+
+Houve réplica.
+
+É o relatório. DECIDO.
+A ação comporta julgamento antecipado, nos termos do artigo 355, inciso I, do Código de Processo Civil, vez que as provas produzidas nos autos são o suficiente para o desate da matéria.
+
+A preliminar de ausência de interesse processual por falta de prévio requerimento administrativo não comporta acolhimento. 
+
+Embora entenda razoável a exigência de prévio requerimento administrativo para a configuração da necessidade de obtenção da tutela jurisdicional, que caracteriza o interesse de agir (conforme, aliás, vem evoluindo a jurisprudência em relação às demandas previdenciárias e cautelares de exibição de documentos), no caso dos autos a requerida apresentou contestação em que resistiu à pretensão da autora, defendendo a improcedência dos pedidos. Assim, demonstrado o posicionamento contrário da requerida em relação ao pedido da autora, fica superada a necessidade de prévio requerimento administrativo, que, diante da manifestação em juízo pela requerida, seria indeferido.
+As demais preliminares arguidas em contestação se confundem com o mérito e como tal serão apreciadas.
+
+No mais, o processo está em ordem. Não há outras preliminares a analisar, nem irregularidades a sanar. Estão presentes os pressupostos processuais e as condições da ação, assim, passo à análise do mérito.
+
+Trata-se de ação de conhecimento que busca ressarcimento de valores pagos a título de indenização securitária paga por força de danos ocorridos em aparelhos elétricos dos segurados decorrentes de falha na rede elétrica gerenciada pela concessionária-ré. A seguradora procura exercer seu direito de regresso, sub-rogada nos direitos dos segurados.
+
+A seguradora sub-roga-se nos direitos e obrigações de seus segurados, de sorte que a pretensão daquela deve ser analisada à luz dos direitos dos usuários do serviço de energia elétrica frente às concessionárias (art. 786 do CC). 
+
+Art. 786. Paga a indenização, o segurador sub-roga-se, nos limites do valor respectivo, nos direitos e ações que competirem ao segurado contra o autor do dano.
+
+Nesse sentido, a responsabilidade civil das concessionárias prestadoras de serviço público por danos causados ao consumidor é objetiva, nos limites da teoria do risco administrativo, de sorte que respondem independentemente de demonstração de culpa (art. 37, § 6º, da Constituição Federal). Basta a prova do fato, do dano e do nexo causal.
+
+A relação jurídica subjacente é de consumo pela presença dos requisitos dos nos artigos 2° e 3° do Código de Defesa do Consumidor e o código também imprime responsabilidade objetiva ao prestador de serviços conforme art. 14 e 22, que dispõem:
+
+Art. 14- O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores, por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos”.
+
+Art. 22. Os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos.
+
+Parágrafo único. Nos casos de descumprimento, total ou parcial, das obrigações referidas neste artigo, serão as pessoas jurídicas compelidas a cumpri-las e a reparar os danos causados, na forma prevista neste código.
+
+Sobre o tema, decidiu o c. Superior Tribunal de Justiça:
+
+DIREITO CIVIL - AÇÃO DE REGRESSO PROPOSTA POR SEGURADORA COM FUNDAMENTO EM SUBROGAÇÃO LEGAL DECORRENTE DE FURTO DE VEÍCULO SEGURADO EM ESTACIONAMENTO - SENTENÇA DE PROCEDÊNCIA DESPROVIMENTO DE RECURSO DE APELAÇÃO INTERPOSTO PELA RÉ. INSURGÊNCIA DA EMPRESA ADMINISTRADORA DO ESTACIONAMENTO. (...) 2. Incide o Código de Defesa do Consumidor na relação entre a seguradora - que se sub-rogou nos direitos da segurada - e a sociedade empresária administradora de estacionamento, local do furto de veículo segurado. Precedentes do STJ. (...) 5. Recurso especial improvido. (REsp nº 1085178/RS, Min. Marco Buzzi, Quarta Turma, j. 15/05/2014)
+
+A propósito, a Súmula 188 do e. Supremo Tribunal Federal estabelece que: O segurador tem ação regressiva contra o causador do dano, pelo que efetivamente pagou, até o limite previsto no contrato de seguro.
+
+Entretanto, não ficou suficientemente demonstrado o nexo causal entre os danos suportados pelos segurados, ressarcidos pela seguradora, e a atuação da ré enquanto concessionária prestadora do serviço público de fornecimento de energia elétrica.
+
+É certo que a parte autora trouxe laudo(s) técnico(s) constatando os danos elétricos nos aparelhos dos segurados e a informação de que a causa seria oscilação/sobrecarga/descarga elétrica advinda da rede de energia elétrica mantida pela ré.
+
+Contudo, referidos laudos foram elaborados de forma unilateral e não são suficientes a convencer o Juízo de que a causa efetiva dos danos decorreu de omissão da ré quanto a manutenção da rede de distribuição de energia.
+
+Nessa senda, a ausência de preservação dos objetos para perícia técnica idônea e realizada sob contraditório e ampla defesa inviabiliza o reconhecimento do nexo causal e, por consequência, a responsabilização da companhia, pois, ainda que a responsabilidade seja objetiva, há que se provar o nexo causal.
+
+Da forma como tem sido formulado o pedido há, por parte da seguradora, o mero repasse do risco coberto pelo contrato de seguro à companhia distribuidora de energia elétrica, sem a possibilidade de realização de prova pericial apta a convencer o Juízo do nexo causal entre os danos suportados pelos segurados e o serviço prestado pela ré.
+
+Assim, revendo posicionamento anterior, conclui-se pela insuficiência dos laudos técnicos trazidos pela seguradora como meio de prova do nexo causal, de sorte que o pedido de ressarcimento regressivo não pode ser acolhido.
+
+Nesse sentido: 
+
+APELAÇÃO – FORNECIMENTO DE ENERGIA ELÉTRICA – AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS-RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO – APLICAÇÃO DO ARTIGO 37, §6º DA CONSTITUIÇÃO FEDERAL E DA LEGISLAÇÃO CONSUMERISTA – Embora a responsabilidade da concessionária de serviço público de fornecimento de energia elétrica seja objetiva, deve existir prova da relação de causalidade entre o dano experimentado pela vítima e o ato ilícito do agente – NEXO DE CAUSALIDADE NÃO DEMONSTRADO – Apesar de sustentar que os danos nos aparelhos eletrônicos decorreram de oscilações no fornecimento de energia, tal variação pode ser causada por falha interna, havendo nos autos apenas prova unilateral, produzida por empresa contratada pela própria autora, sem o crivo do contraditório – Sem prova cabal de que os danos nos equipamentos ocorreram em razão da suposta oscilação de energia elétrica, além de inviabilizada a produção de prova pericial diante da substituição das peças, sem preservação pela autora daquelas danificadas – Parte autora que não se desincumbiu de provar fato constitutivo do seu direito – Aplicação do art. 373, I, do CPC/2015 – Precedentes deste E. TJSP – Sentença mantida – RECURSO IMPROVIDO. (TJSP;  Apelação Cível 1016352-74.2021.8.26.0068; Relator (a): Luis Fernando Nishi; Órgão Julgador: 32ª Câmara de Direito Privado; Foro Regional II - Santo Amaro - 11ª Vara Cível; Data do Julgamento: 27/02/2023; Data de Registro: 27/02/2023)
+
+AÇÃO REGRESSIVA - ENERGIA ELÉTRICA - Seguradora autora que se sub-rogou nos direitos e garantias da segurada, ao efetuar o pagamento de indenização pelos sinistros ocorridos em equipamentos eletroeletrônicos - Pedido de ressarcimento, fundado na falha na prestação de serviços atribuída à concessionária ré - Sentença de improcedência - Recurso da autora - Não obstante a concessionária de serviço público responda objetivamente pelos danos causados ao consumidor, é certo que, para autorizar o dever de indenizar, é imprescindível a comprovação do nexo causal entre os danos e o ato por ela praticado - Ônus probatório do qual a seguradora autora não se desincumbiu - Relatórios do Módulo 09 do PRODIST, invocados pela seguradora, que não teriam, isoladamente, o condão de atribuir o nexo de causalidade necessário para o dever de indenizar - Laudo/orçamento de empresa de assistência técnica, que não corrobora a alegada falha atribuída à ré - Precedentes jurisprudenciais nesse sentido - Sem prova do nexo de causalidade, imperiosa a improcedência do pedido inicial - Sentença mantida - Honorários recursais devidos - RECURSO DESPROVIDO. (TJSP;  Apelação Cível 1109317-72.2021.8.26.0100; Relator (a): Angela Lopes; Órgão Julgador: 28ª Câmara de Direito Privado; Foro Central Cível - 41ª Vara Cível; Data do Julgamento: 27/02/2023; Data de Registro: 27/02/2023)
+
+AÇÃO REGRESSIVA. PRESTAÇÃO DE SERVIÇOS. FORNECIMENTO DE ENERGIA ELÉTRICA. Autora pretende o ressarcimento dos valores despendidos com indenização securitária por danos sofridos por suposta oscilação na rede elétrica. Sentença de improcedência. Apelo da autora. Seguro por danos elétricos. Responsabilidade objetiva da prestadora de serviços.  Pagamento de indenizações, pela seguradora, sem prévia comunicação à concessionária. Desprezo à recomendação da Resolução 414/2010 da ANEEL. Ausência de prova cabal apta a comprovar o nexo causal entre os danos e o serviço prestado pela ré. Autora que se baseou em relatório produzido unilateralmente. Aparelhos eletrônicos inutilizados pela autora, impedidos, portanto, de serem avaliados diretamente. Precedentes. Sentença mantida. Recurso desprovido. (TJSP;  Apelação Cível 1001570-64.2021.8.26.0132; Relator (a): Mary Grün; Órgão Julgador: 32ª Câmara de Direito Privado; Foro de Catanduva - 2ª Vara Cível; Data do Julgamento: 27/02/2023; Data de Registro: 27/02/2023)
+
+Ante o exposto, JULGO IMPROCEDENTE o pedido formulado pela parte autora em face da parte-ré e resolvo o mérito nos termos do artigo 487, inciso I, do Código de Processo Civil. 
+
+Pela sucumbência, condeno a parte autora ao pagamento das custas judiciais, despesas processuais e honorários advocatícios fixados em 10% do valor atualizado da causa (art. 85, § 2º, do CPC). 
+
+Com o trânsito em julgado, arquivem-se os autos.
+
+P. R. I. 
+
+Araçatuba, 28 de fevereiro de 2023.
+
+
+MARCELO YUKIO MISAKA
+Juiz de Direito
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

@@ -1,0 +1,76 @@
+1035701-33.2022.8.26.0002
+Classe: Procedimento do Juizado Especial Cível
+Assunto: Defeito, nulidade ou anulação
+Magistrado: Fernanda Melo de Campos Gurgel Panseri Ferreira
+Comarca: SÃO PAULO
+Foro: Foro Regional II - Santo Amaro
+Vara: 2ª Vara do Juizado Especial Cível
+Data de Disponibilização: 29/09/2022
+... crimes:
+I – de terrorismo; II – de tráfico ilícito de substâncias entorpecentes ou drogas afins; III – de contrabando ou tráfico de armas, munições ou material destinado a sua produção; IV – de extorsão mediante seqüestro; V – contra o sistema financeiro nacional; VI – contra a Administração Pública; VII – contra a ordem tributária e a previdência social; VIII – lavagem de ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de SÃO PAULO - Foro Regional II - Santo Amaro
+2ª Vara do Juizado Especial Cível
+Avenida Adolfo Pinheiro, 1992, 2º andar, Santo Amaro - CEP 04734-003, Fone: (11) 5522-8833, São Paulo-SP - E-mail: stoamaro2jec@tjsp.jus.br
+
+1035701-33.2022.8.26.0002 - lauda 
+
+
+
+
+SENTENÇA
+
+Reclamação:
+1035701-33.2022.8.26.0002 - Procedimento do Juizado Especial Cível
+Requerente:
+Liliane Alves Gomes
+Requerido:
+Banco Bradesco S.A.
+
+Eu, LFC, Assistente Judiciário, digitei.
+
+
+
+Juíza de Direito: Dra Fernanda Melo de Campos Gurgel Panseri Ferreira
+
+
+
+Vistos.
+
+Ante os fatos narrados na inicial e trazidos em defesa, verifica-se que o conjunto fático-probatório documental, jungido à matéria de direito, é suficiente ao deslinde do feito. 
+Deste modo, mostrando-se desnecessária a realização de audiência de instrução e julgamento e, com base no que expresso pelo artigo 355 do CPC, dispensa-se a realização do mencionado ato. 
+Dispensado o relatório, nos termos do art. 38, caput, da Lei n. 9.099/95, passa-se à fundamentação e decisão.
+Acrescento que "a necessidade da produção de prova há de ficar evidenciada para que o julgamento antecipado da lide implique em cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do Magistrado" (STF - RE 101.171-8-SP). 
+Desacolho a preliminar de inépcia da inicial, uma vez que os fatos foram expostos de forma adequada e os documentos juntados com a referida peça são suficientes para o julgamento do mérito da demanda, não havendo dúvida quanto ao pedido de provimento final.
+As preliminares de ilegitimidade passiva e de interesse de agir se confundem com o mérito, razão pela qual serão com ele julgadas.
+Trata de ação de reparação de danos, ajuizada na data de 31/05/2022, em que a alega a parte autora que "[...] equivocadamente efetuou uma transferência no valor de R$ 5.000,00 (cinco mil reais) por meio de pagamento eletrônico instantâneo PIX, para conta de terceiro, conforme seguir: [...] Ocorre que ao realizar a transferência a Requerente imediatamente buscou á agência da Requerida (Banco Bradesco – Capão Redondo) buscando, a restituição do valor transferido, conforme comprovante (SENHA: 6020 – 16.05.2022 – Horário: 14:08), anexa abaixo: [...]" (páginas 02/03).
+Em contestação, a ré sustenta, em resumo, a ausência de nexo causal que justifique a sua responsabilidade pelos fatos narrados na inicial, bem como que se trata de culpa exclusiva da vítima. 
+Analisando-se o contexto probatório, em cotejo com as alegações das partes, verifica-se que a demanda é improcedente.
+Com efeito, ainda que a responsabilidade do requerido por dano causado a consumidor seja objetiva, à luz do Código de Defesa do Consumidor, a parte lesada não está desonerada de provar: a) o defeito na prestação do serviço; b) o dano verificado; c) o nexo causal entre o serviço falho e o dano.
+E, no caso em tela, tais elementos não restaram configurados.
+Alega a autora, em apertada síntese, que realizou, de forma incorreta, uma transferência de quantia através de PIX para conta de terceiro. 
+Em razão disso, pede seja o banco-réu condenado a lhe ressarcir a quantia transferida. Requer, ainda, a quebrar de sigilo bancário do sujeito que recebeu indevidamente o valor.
+Sem razão, todavia.
+Com efeito, é de conhecimento público que os correntistas são responsáveis pela operações bancárias realizadas por livre e espontânea vontade.
+Assim, deveria a parte autora certificar-se, antes de efetuar a transferência bancária, da correção dos dados da transação. 
+Quem opta por utilizar tal forma de operação assume o ônus mencionado, a menos, é certo, que ocorra falha da instituição financeira envolvida quanto ao seu dever de efetuar a transação bancária conforme solicitada pelo consumidor. 
+Por isso, é de se concluir que os fatos ocorreram por culpa exclusiva da requerente, que não se acautelou antes de realizar as operações bancárias utilizando o banco requerido como meio de transmissão de crédito. 
+No que tange à quebra do sigilo bancário, é importante mencionar as disposições pertinentes estabelecidas na Lei Complementar n. 105/2001, in verbis:
+"Art. 1o As instituições financeiras conservarão sigilo em suas operações ativas e passivas e serviços prestados.
+[...] 
+§ 4o A quebra de sigilo poderá ser decretada, quando necessária para apuração de ocorrência de qualquer ilícito, em qualquer fase do inquérito ou do processo judicial, e especialmente nos seguintes crimes:
+I – de terrorismo; II – de tráfico ilícito de substâncias entorpecentes ou drogas afins; III – de contrabando ou tráfico de armas, munições ou material destinado a sua produção; IV – de extorsão mediante seqüestro; V – contra o sistema financeiro nacional; VI – contra a Administração Pública; VII – contra a ordem tributária e a previdência social; VIII – lavagem de dinheiro ou ocultação de bens, direitos e valores; IX – praticado por organização criminosa".
+Resta claro, portanto, que a quebra de sigilo não pode ser determinada pelo Juízo Cível, tendo em vista que a medida postulada pressupõe a necessidade de apuração de fatos envolvendo os crimes acima elencados.
+ Assim, outra conclusão não resta a não ser reconhecer a incompetência do Juizado Especial Cível para o processamento e julgamento do pedido de quebra de sigilo bancário, motivo pelo qual, no tocante a tal pedido, julgo extinto o processo, sem exame de mérito, nos termos do artigo  485, IV, do Código de Processo Civil.
+No mais, julgo improcedente o pedido de indenização por danos materiais, nos termos do artigo 487, I do CPC. Consoante artigos 54 e 55, da Lei n.º 9.099/95, as partes estão isentas do pagamento de custas, taxas, despesas e honorários, salvo na hipótese de recurso.
+O prazo para interposição de recurso é de 10 (dez) dias. Ressalvada a hipótese de concessão de gratuidade da justiça, o preparo corresponderá: a) à taxa judiciária de ingresso, no importe de 1% sobre o valor atualizado da causa, observado o valor mínimo de 5 (cinco) UFESPs; b) à taxa judiciária referente às custas de preparo, no importe de 4% sobre o valor fixado na sentença ou ainda 4% sobre o valor atualizado atribuído à causa na ausência de pedido condenatório, observado o valor mínimo de 5 (cinco) UFESPs; c) às despesas processuais referentes a todos os serviços forenses eventualmente utilizados (despesas postais, diligências do Oficial de Justiça, taxas para pesquisas de endereço nos sistemas conveniados, custas para publicação de editais etc), nos termos do Comunicado CG 1530/2021. Cada valor deverá ser recolhido na respectiva guia (FED/TJ e/ou DARE), com o código correspondente, conforme instruções completas e detalhadas que poderão ser encontradas na página do TJ/SP: https://www.tjsp.jus.br/IndicesTaxasJudiciarias/DespesasProcessuais, sob pena de deserção de eventual recurso. O recolhimento independe de cálculo elaborado pela serventia, que apenas será responsável pela conferência dos valores e elaboração da certidão para juntada aos autos, nos termos do Comunicado CG nº 489/2022. Índices Taxas Judiciárias | Despesas Processuais.
+Transitada em julgado esta sentença, comunique-se a extinção e arquivem-se os autos.
+Publique-se. Intimem-se.
+ 
+São Paulo, 29 de setembro de 2022.
+
+
+FERNANDA M. C. G. PANSERI FERREIRA
+            Juíza de Direito

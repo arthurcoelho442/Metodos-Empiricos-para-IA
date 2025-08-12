@@ -1,0 +1,117 @@
+1000730-81.2020.8.26.0102
+Classe: Procedimento Comum Cível
+Assunto: Defeito, nulidade ou anulação
+Magistrado: GABRIEL ARAÚJO GONZALEZ
+Comarca: Cachoeira Paulista
+Foro: Foro de Cachoeira Paulista
+Vara: 1ª Vara
+Data de Disponibilização: 03/11/2022
+... jurídico, isto como uma segurança do tráfico social: é o já mencionado princípio da irrelevância dos motivos. Para caracterização do erro, como veremos adiante, os motivos só importam se declarados como determinantes do ato ou como condição. No entanto, quando se trata de objeto, as qualidades essenciais muitas vezes importam tanto que, mesmo quando não declaradas, passam a ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de Cachoeira Paulista
+1ª Vara
+Praça Prefeito Prado Filho, s/nº, ., Centro - CEP 12630-000, Fone: (12) 3101-1424, Cachoeira Paulista-SP - E-mail: cachpta@tjsp.jus.br
+
+1000730-81.2020.8.26.0102 - lauda 
+SENTENÇA
+
+Processo Digital n. 
+1000730-81.2020.8.26.0102
+Classe - Assunto
+Procedimento Comum Cível - Defeito, nulidade ou anulação
+Requerente:
+Maria Helena Pinto Alves
+Requerido:
+Ana Maria Alves Leandro e outros
+
+
+
+Tramitação prioritária
+
+
+Juiz(a) de Direito: Dr(a).  GABRIEL ARAÚJO GONZALEZ 
+
+Trata-se de demanda ajuizada por MARIA HELENA PINTO ALVES contra (1) ANA MARIA ALVES LEANDRO, (2) MARIA HELOISA ALVES LEANDRO, (3) MARIA ELIZABETH PINTO ALVES, (4) ERIC CAMPOS ALVES e (5) ANIC CAMPOS ALVES, voltada à anulação da escritura pública de inventário e partilha dos bens deixados pelo falecimento de LUIZ CAMPOS ALVES.
+A petição inicial narra que: a) a Autora é viúva do falecido; b) em 15/03/2020, foi realizada partilha através de escritura pública, com cessão de parte da meação; c) houve irregularidades na partilha, já que: c.1) os cessionários não manifestaram aceite; c.2) só houve transmissão de 25 cabeças de gado, apesar de a escritura prever 42; c.3) o valor da fazenda vai causar prejuízos à Autora; c.4) a Autora não assinou a procuração; c.5) houve lesão e erro; c.6) não havia poderes para a cessão; c.7) houve prejuízos à Fazenda Pública; c.8) a procuração foi feita a rogo.
+Às fls. 77/78, a tutela provisória foi indeferida.
+Às fls. 103, (1) ANA MARIA ALVES LEANDRO foi citada e não apresentou resposta.
+Às fls. 106/107, (2) MARIA HELOISA ALVES LEANDRO e seu marido foram citados e não apresentara, resposta.
+Às fls. 109, (5) ANIC CAMPOS ALVES foi citada e não apresentou resposta.
+Às fls. 263/265, foi proferida decisão que reconheceu o comparecimento espontâneo dos Réus  (3) MARIA ELIZABETH PINTO ALVES e (4) ERIC CAMPOS ALVES e decretou a revelia, mas não aplicou os efeitos materiais.
+Às fls. 437/442, o MP apresentou parecer, opinando pela procedência dos pedidos.
+É o relatório. Passo a decidir.
+Do julgamento antecipado do mérito
+O art. 355 do CPC/2015 permite o julgamento antecipado do mérito em duas hipóteses:
+Art. 355.  O juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando:
+I - não houver necessidade de produção de outras provas;
+II - o réu for revel, ocorrer o efeito previsto no art. 344 e não houver requerimento de prova, na forma do art. 349.
+
+No caso concreto, a prova é estritamente documental, não havendo razão para produção de prova técnica ou oral.
+Desta forma, procedo ao julgamento antecipado do mérito com base no art. 355, I, do CPC/2015.
+
+Da anulação pretendida
+Como destacado na decisão de fls. 263/265, a parte Autora, em alguns pontos, pretende tutelar interesses de terceiros, como o dos cessionários e o da Fazenda Pública, faltando-lhe legitimidade para tanto.
+Além disso, o problema na transmissão a menor das cabeças de gado não repercute na validade da escritura pública, mas no seu cumprimento, de sorte que eventual repasse a menor não pode fundamentar a anulação pretendida.
+Quanto à procuração, valem aqui as mesmas considerações feitas às fls. 263/265: a) apesar de impugnar a procuração feita a rogo, a parte Autora não nega que, de fato, compareceu ao cartório (não indica a sua falsidade); b) a procuração de fls. 32/34 outorgava poderes para ceder em favor dos filhos, como o que de fato ocorreu.
+Além disso, a incapacidade narrada pelo MP em seu parecer não constitui causa de pedir e inclusive conflita com a tese autoral, que alega a capacidade civil para a outorga da procuração ao advogado (fl. 31).
+Resta a análise dos vícios de consentimento, que permitiriam a anulação, nos termos do art. 657 do CPC/2015:
+Art. 657. A partilha amigável, lavrada em instrumento público, reduzida a termo nos autos do inventário ou constante de escrito particular homologado pelo juiz, pode ser anulada por dolo, coação, erro essencial ou intervenção de incapaz, observado o disposto no § 4º do art. 966 .
+Parágrafo único. O direito à anulação de partilha amigável extingue-se em 1 (um) ano, contado esse prazo:
+I - no caso de coação, do dia em que ela cessou;
+II - no caso de erro ou dolo, do dia em que se realizou o ato;
+III - quanto ao incapaz, do dia em que cessar a incapacidade.
+
+Nota-se que a lesão não é hipótese de anulação.
+Por outro lado, a Autora fundamenta o seu pedido também no erro.
+O art. 138 do CC/02 consagra o erro substancial como um defeito apto à anulação do negócio jurídico:
+Art. 138. São anuláveis os negócios jurídicos, quando as declarações de vontade emanarem de erro substancial que poderia ser percebido por pessoa de diligência normal, em face das circunstâncias do negócio.
+
+O dispositivo em questão estabelece dois requisitos para a anulação do negócio jurídico: a) a presença do erro substancial determinante para a declaração de vontade; b) o fato de que o erro “poderia ser percebido por pessoa de diligência normal, em face das circunstâncias do negócio”.
+O primeiro requisito (erro substancial) é tratado no art. 139:
+Art. 139. O erro é substancial quando:
+I - interessa à natureza do negócio, ao objeto principal da declaração, ou a alguma das qualidades a ele essenciais;
+II - concerne à identidade ou à qualidade essencial da pessoa a quem se refira a declaração de vontade, desde que tenha influído nesta de modo relevante;
+III - sendo de direito e não implicando recusa à aplicação da lei, for o motivo único ou principal do negócio jurídico. (grifos acrescidos)
+
+Quanto ao erro quanto ao objeto, a doutrina esclarece que ele está presente quando a manifestação de vontade externalizada, no que diz respeito ao objeto do negócio jurídico, é diferente daquilo que o agente pretendia:
+“Há erro invalidade quando existe equívoco em relação (a) ao objeto a que se refira a manifestação de vontade, em si, ou (b) a suas qualidades essenciais. Há, portanto, (a) erro quanto à identidade do objeto e (b) erro quanto a suas qualidades essenciais. No error in corpore, o conteúdo da manifestação quanto ao objeto encerra desconformidade com o objeto do negócio tal qual se quis.
+Objeto tem, no art. 139, I, do Código Civil, significado genérico que abrange todo objeto de direito, sobre o qual se manifeste vontade. Não se refere apenas às coisas, mas a quaisquer bens, créditos e direitos, que integrem a esfera jurídica das pessoas. A questão da qualidade essencial (error in qualitate) não se limita, portanto, às coisas, mas pode dizer respeito a todo e qualquer objeto sobre o qual recaía o ato jurídico, inclusive direitos.
+Os sistemas jurídicos consideram, em geral, irrelevantes os motivos que levaram a pessoa à prática do ato jurídico, isto como uma segurança do tráfico social: é o já mencionado princípio da irrelevância dos motivos. Para caracterização do erro, como veremos adiante, os motivos só importam se declarados como determinantes do ato ou como condição. No entanto, quando se trata de objeto, as qualidades essenciais muitas vezes importam tanto que, mesmo quando não declaradas, passam a constituir motivos relevantes, tendo-se como excluído o princípio geral da irrelevância dos motivos, como já mostrava Pontes de Miranda” (MELLO, Marcos Bernardes de. Teoria do fato jurídico: plano da validade. 15ª ed. São Paulo: Saraiva, 2019, p. 212/213) (grifos acrescidos)
+
+Já o segundo requisito (possibilidade de conhecimento por uma pessoa de diligência normal) está envolto numa redação confusa, que não esclarece qual das partes negociantes, se adotasse as diligências normais, perceberia o erro.
+Recorre-se, mais uma vez, à doutrina de Marcos Bernardes de Mello, para quem esse requisito exige a escusabilidade do erro e a comprovação de que uma pessoa com diligência normal também incidiria no erro:
+“Em nosso entendimento, a norma do art. 138 tem a escusabilidade, não a recognoscibilidade, como elemento essencial à configuração (=completante do suporte fático) do erro substancial invalidante, donde se deve concluir que o erro imperdoável, inescusável, não pode servir de fundamento à anulabilidade do negócio jurídico.
+De modo algum a norma adotou o reconhecimento do erro pelo outro figurante como elemento tipificador do erro invalidante, inferência a que se chega da simples interpretação gramatical da norma. (...).
+A segunda questão se prende à compreensão do que se deva considerar pessoa de diligência normal, expressão plena de dubiedade de dubiedade e imprecisão, semelhante àquelas 'homem comum', 'bom pai de família', tão do gosto dos clássicos juristas franceses (...). Aquele que alegar que certo erro é escusável terá, obrigatoriamente, de provar que, em face das circunstâncias do negócio, uma pessoa de diligência normal nele incidiria” (MELLO, Marcos Bernardes de. Teoria do fato jurídico: plano da validade. 15ª ed. São Paulo: Saraiva, 2019, p. 209/210) (grifos acrescidos)
+
+No caso concreto, a petição inicial não indica com clareza os requisitos do erro substancial.
+Na realidade, não há nenhuma prova de que a Autora pretendia outorgar procuração com outra finalidade que não a elaboração de inventário e partilha extrajudiciais.
+Da mesma forma, não há provas de que a mandatária estava em erro ao celebrar o referido negócio com os demais herdeiros.
+Por isso, os pedidos devem ser julgados improcedentes.
+
+Da litigância de má-fé
+O art. 80 do CPC/2015 elenca as condutas do litigante de má-fé:
+Art. 80. Considera-se litigante de má-fé aquele que:
+I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+II - alterar a verdade dos fatos;
+III - usar do processo para conseguir objetivo ilegal;
+IV - opuser resistência injustificada ao andamento do processo;
+V - proceder de modo temerário em qualquer incidente ou ato do processo;
+VI - provocar incidente manifestamente infundado;
+VII - interpuser recurso com intuito manifestamente protelatório.
+
+No caso concreto, nota-se que a conduta da parte não encontra enquadramento em nenhuma das hipóteses do art. 80 do CPC/2015, estando adequada aos atos do litigante que busca defender os direitos que entende titularizar.
+Desta forma, indefiro o requerimento de condenação às penas da litigância de má-fé.
+
+Dispositivo
+Diante do exposto, com base no art. 487, I, do CPC/2015, julgo improcedentes os pedidos autorais, extinguindo o processo com resolução do mérito.
+Condeno a parte Autora ao pagamento das custas judiciais e honorários advocatícios de 10% (dez por cento) sobre o valor atualizado da causa, em favor dos advogados de (2) MARIA HELOISA ALVES LEANDRO, (3) MARIA ELIZABETH PINTO ALVES, (4) ERIC CAMPOS ALVES e (5) ANIC CAMPOS ALVES.
+Após o trânsito em julgado e a adoção das cautelas de praxe, dê-se baixa.
+Int.
+
+Cachoeira Paulista,03 de novembro de 2022.
+
+
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

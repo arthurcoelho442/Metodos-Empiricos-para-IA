@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>jurisMetrics — decisões (index)</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; max-width:900px; margin:auto; }
+    header { display:flex; gap:10px; align-items:center; }
+    .card { border:1px solid #ddd; padding:10px; margin:10px 0; border-radius:6px; }
+    .links a { margin-right:8px; }
+    .meta { color:#555; font-size:0.9em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>jurisMetrics — decisões (index)</h1>
+    <div style="margin-left:auto;">
+      <label for="crime">Filtrar por crime:</label>
+      <select id="crime">
+        <option value="all">Todos</option>
+      </select>
+    </div>
+  </header>
+
+  <main id="list"></main>
+
+  <script>
+    // --- CONFIGURE AQUI ---
+    const BASE_URL = "http://200.137.66.21/tjsp/law-tjsp/"; // ajustar se necessário
+    // Exemplo de mapeamento (id -> [pdf, txt, crime, descrição])
+    const docs = [
+      // substitua pelos nomes reais dos arquivos disponíveis no servidor
+      { id: "001", pdf: "decisao_001.pdf", txt: "decisao_001.txt", crime: "Simple Theft", title: "Decisão 001" },
+      { id: "002", pdf: "decisao_002.pdf", txt: "decisao_002.txt", crime: "Robbery", title: "Decisão 002" },
+      // ... adicione toda a listagem (pode ser gerada por script)
+    ];
+
+    // popula dropdown com tipos de crime existentes
+    const crimes = [...new Set(docs.map(d=>d.crime))].sort();
+    const sel = document.getElementById('crime');
+    crimes.forEach(c => {
+      const o = document.createElement('option');
+      o.value = c;
+      o.textContent = c;
+      sel.appendChild(o);
+    });
+
+    function render(filter='all') {
+      const container = document.getElementById('list');
+      container.innerHTML = '';
+      const filtered = docs.filter(d => filter === 'all' ? true : d.crime === filter);
+      if (filtered.length === 0) container.innerHTML = '<p>Nenhuma decisão encontrada para esse filtro.</p>';
+      for (const d of filtered) {
+        const div = document.createElement('div');
+        div.className = 'card';
+        div.innerHTML = `
+          <strong>${d.title}</strong>
+          <div class="meta">Crime: ${d.crime} — ID: ${d.id}</div>
+          <div class="links">
+            <a href="${BASE_URL + d.pdf}" target="_blank">PDF</a>
+            <a href="${BASE_URL + d.txt}" target="_blank">TXT</a>
+          </div>
+        `;
+        container.appendChild(div);
+      }
+    }
+
+    document.getElementById('crime').addEventListener('change', e => render(e.target.value));
+    // inicializa
+    render();
+  </script>
+</body>
+</html>

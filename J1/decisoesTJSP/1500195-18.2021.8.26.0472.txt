@@ -1,0 +1,123 @@
+1500195-18.2021.8.26.0472
+Classe: Ação Penal - Procedimento Ordinário
+Assunto: Crimes contra a Ordem Tributária
+Magistrado: VALDEMAR BRAGHETO JUNQUEIRA
+Comarca: Porto Ferreira
+Foro: Foro de Porto Ferreira
+Vara: 2ª Vara
+Data de Disponibilização: 26/04/2022
+... idêntico é que nas imputações de tráfico, p. ex., não basta à acusação a juntada dos termos de depoimento dos policiais militares que fizeram o flagrante junto à autoridade policial, sendo imprescindível a prova colhida em audiência.
+É justamente este teste pelos quais passam as testemunhas que confere credibilidade jurídica às suas declarações.
+Porque as declarações do posto ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de Porto Ferreira
+Foro de Porto Ferreira
+2ª Vara
+Rua Dr. Carlindo Valeriani, 525, Porto Ferreira - SP - cep 13660-017
+Horário de Atendimento ao Público: das 12h30min às19h00min
+      
+1500195-18.2021.8.26.0472 - lauda 
+SENTENÇA
+
+Processo Digital nº:
+1500195-18.2021.8.26.0472
+Classe - Assunto
+Ação Penal - Procedimento Ordinário - Crimes contra a Ordem Tributária
+Autor:
+Justiça Pública
+Réu:
+ROBERTA CORTEZ TUFANIN
+
+
+Vistos.
+
+
+O representante do Ministério Público ingressou em juízo pedindo a condenação de ROBERTA CORTEZ TUFANIN, já qualificada nos autos, como incursa no artigo 1°, inciso IV, da Lei 8.137/90, na forma do art. 71 do Código Penal afirmando que, no período compreendido entre os meses de março e agosto de 2017, nesta cidade e comarca de Porto Ferreira, agindo na qualidade de sócia responsável pela administração da empresa Transportadora R. C. Ltda; suprimiu e reduziu tributo no valor de R$ 15.110,22 (quinze mil cento e dez reais e vinte e dois centavos), utilizando-se de  documento que sabia ser inexato.
+Segundo narrou a denúncia, "agindo na qualidade de administradora da empresa supramencionada, a denunciada creditou-se indevidamente de imposto sobre a circulação de mercadorias no valor de R$ 15.110,22 (quinze mil cento e dez reais e vinte e dois centavos), simulando a compra de óleo diesel de “Muller Combustíveis e Lubrificantes Ltda”, oportunidade em que se creditou do predito imposto de maneira simulada. Ocorre que, em fiscalização, agentes estaduais foram ao mencionado posto de combustíveis, oportunidade em que descobriram que as vendas de óleo diesel nunca ocorreram, servindo apenas de pretexto para gerar crédito tributário à pessoa jurídica administrada pela denunciada. Auto de infração lavrado em desfavor da empresa da denunciada."
+A denúncia foi recebida e o processo seguiu seu trâmite natural, com apresentação de defesa prévia, audiência de instrução e julgamento e alegações finais. 
+
+É o breve relatório.
+Fundamento e decido.
+
+O artigo 1º, inciso IV, da Lei 8.137/90, assim dispõe sobre o delito de sonegação fiscal:
+
+Art. 1° Constitui crime contra a ordem tributária suprimir ou reduzir tributo, ou contribuição social e qualquer acessório, mediante as seguintes condutas: 
+(...)
+IV - elaborar, distribuir, fornecer, emitir ou utilizar documento que saiba ou deva saber falso ou inexato;
+
+O tipo objetivo consiste na conduta de suprimir (finalidade de não pagar nada) ou reduzir (finalidade de pagar a menos) tributo ou contribuição (de caráter tributário).
+Há, pois, exigência de dupla tipicidade. Em um primeiro momento deve existir o dever de pagar o tributo; na sequência a conduta que visa suprimir ou reduzir este pagamento.
+O tipo do inciso IV do art. 1º da Lei 8.137/90 tem por objeto material tanto o documento falso (falsidade material) como o inexato (falsidade ideológica).
+A figura prevista na parte final do citado inciso IV, "utilizar", é similar ao art. 304 do Código Penal (uso de documento falso) e sua incidência independe da prova da autoria da falsificação.
+É necessária a prova da conduta do agente imputado na denúncia. Neste âmbito, é irrelevante quem seja o administrador de direito da pessoa jurídica envolvida no delito, podendo ser condenado o administrador de fato; por consequência, também não basta o mero carreamento aos autos do contrato social com o intuito de provar a autoria.
+
+A condenação não pode se basear apenas em dados formais, como a condição de administrador indicada no contrato social ou outro documento, devendo ser comprovado, ao longo da instrução, que o acusado, efetivamente, tomou decisão no sentido da sonegação.
+Rios Gonçalves e Baltazar Junior, Legislação penal especial esquematizado, São Paulo, Saraiva, item 15.3.3.
+
+Além disso, tampouco pode suprir a falta de provas a invocação da teoria do domínio do fato (de duvidoso aproveitamento no direito pátrio diante da amplitude do art. 29 do Código Penal e do art. 11 da Lei 8.137/90 e da inexistência de limites formais de sancionamento para o autor e para o partícipe – ver, p. ex., o parágrafo único do art. 16 da Lei 8.137/90), cuja função é tão somente enquadrar como autor agentes que, sem ela, responderiam na condição de partícipes (ou seja, pressupõe a prova regular da imputação).
+É necessário, segundo a Súmula Vinculante 24 do STF, o lançamento definitivo do tributo para a configuração do delito.
+
+Não se tipifica crime material contra a ordem tributária, previsto no artigo 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo.
+
+Nos casos de fraude, em razão do disposto no art. 149 do Código Tributário Nacional (Lei 5.172/66) o lançamento definitivo pode ser provado pela certidão de trânsito em julgado do processo administrativo ou a certidão de dívida ativa, a qual  pressupõe o lançamento.
+O lançamento definitivo é o termo inicial da persecução penal (AgRg no REsp 1.217.773/RS, rel. Min. Marco Aurélio Bellizze, Quinta Turma, julgado em 20/05/2014) para fins de cálculo prescricional.
+Afasta-se a tipicidade material por insignificância nas hipóteses em que o valor do tributo não atinja o valor mínimo para o qual o ente público entenda que haja interesse público no ajuizamento da execução fiscal ou na sua continuidade (vide art. 20 da Lei 10.522/02 e Portarias nº 75 e nº 130/2012 do Ministério da Fazenda em âmbito federal; Lei 14.272/2010 e Resolução PGE 21/2017 apontando como limite 1.200 UFESPs; Lei 3.146/2015 apontando como limite 300 UFMs). É a razão do Tema 109 da Repercussão Geral do STF, julgamento do RE 591033, rel. Min. Ellen Gracie, Tribunal Pleno, julgado em 25/09/2008, publicado em 20/02/2009, no qual se afirmou a seguinte tese "Lei estadual autorizadora da não inscrição em dívida ativa e do não ajuizamento de débitos de pequeno valor é insuscetível de aplicação a Município e, consequentemente, não serve de fundamento para a extinção das execuções fiscais que promova, sob pena de violação à sua competência tributária".
+Como se trata de tributo estadual e valendo hoje a UFESP R$31,97, o limite é de R$38.292,00. Como o débito tributário encontra-se hoje em R$38.330,68, conforme CDA 1275127760, impossível afastar a tipicidade material.
+A testemunha de acusação, Agente Fiscal de Rendas, Daniel Araújo Faria, em juízo disse que a Secretaria da Fazenda notou muitas simulações entre postos de combustíveis e transportadoras. O posto não paga ICMS na saída em razão da substituição tributária, mas a transportadora poderia se creditar do imposto destacado ("crédito frio"). Não fez a fiscalização no posto de combustíveis. Não lembra desse auto em específico. Não se recorda deste posto em específico. Oferecem ao contribuinte a possibilidade de comprovar a operação. Disse que a operação em questão é diferente em razão da existência de uma subcontratação. Subcontratada só poderia se creditar se tivesse uma nota fiscal em seu nome. O correto é emitir a nota fiscal para a subcontratada, que foi quem contratou com o posto. Havia uma relação entre a RC e outra transportadora. Os créditos seriam da subcontratada, não da subcontratante (RC), Em tese, se uma se creditou no lugar da outra, não haveria impacto fiscal. Trata-se de uma normativa técnica para facilitação da fiscalização. O documento não era falso, era inexato. A nota fiscal foi emitida em nome da RC, mas a operação se deu entre a subcontratada e o posto.
+A testemunha de defesa, Tatiane Fernandes, em juízo, disse que trabalhava na empresa e não sabe de sonegação. As subcontratações foram feitas para aumentar a capacidade da empresa; não havia orientação para contratação de determinados postos; os custos com combustíveis eram suportados pela RC; não havia um planejamento tributário.
+ROBERTA CORTEZ TUFANIN, em declarações perante a autoridade policial, disse que "é proprietária da empresa autuada, que sua empresa foi autuada por motivos de créditos que foram questionados por parte do fisco, que resultante desse questionamento o mesmo foi inscrito como divida, que segundo a ora declarante a legislação permite as ações da empresa e que por esse motivo toda essa situação esta sendo discutida judicialmente como segue em anexo toda a documentação processual demonstrando de forma detalhada a situação processual dos fatos (mídia anexa)." Em juízo manteve sua versão. É sócia da RC. Fez um contrato com uma subcontratada; havia uma exigência de clientes; com a subcontratada combinavam um valor de frete, além do valor do combustível; esse pagamento era feito pela RC, tanto do valor do frete, tanto do combustível; os valores eram pagos simultaneamente; não havia orientação para abastecer em um posto específico. RC sempre foi responsável por qualquer atitude pela prestação do serviço. Faziam o pagamento para o próprio posto porque assumiam o risco total da operação. A exigência da nota fiscal ser em nome da RC era contratual. Não houve uma operação simulada. Houve apenas uma necessidade comercial de expandir os serviços. Faziam o pagamento direto ao posto. Tinha comprovação de que a contratação ocorreu com o posto, pois as viagens ocorriam. Clientes exigem que os subcontratados não tenham qualquer tipo de negativação. Tinham uma exigência do SEM PARAR, mas não faziam os pagamentos. Não tinham responsabilidade pela manutenção. Há controle maior sobre combustível e pedágios porque eles compõem a maior parte do preço do frete. Não havia orientação em relação aos postos nos quais deveria haver o abastecimento; pagamento foi feito pela RC.
+
+Diz a denúncia que a pessoa acusada suprimiu e reduziu tributo utilizando documento que sabia ser inexato.
+
+Segundo se apurou, agindo na qualidade de administradora da empresa supramencionada, a denunciada creditou-se indevidamente de imposto sobre a circulação de mercadorias no valor de R$15.110,22 (quinze mil cento e dez reais e vinte e dois centavos), simulando a compra de óleo diesel de “Muller Combustíveis e Lubrificantes Ltda”, oportunidade em que se creditou do predito imposto de maneira simulada.
+Ocorre que, em fiscalização, agentes estaduais foram ao mencionado posto de combustíveis, oportunidade em que descobriram que as vendas de óleo diesel nunca ocorreram, servindo apenas de pretexto para gerar crédito tributário à pessoa jurídica administrada pela denunciada.
+Auto de infração lavrado em desfavor da empresa da denunciada.
+O débito foi devidamente inscrito em dívida ativa.
+
+Ao analisar o procedimento administrativo tributário verifica-se duas linhas de imputações do fisco ao contribuinte, quais sejam, (a) ter se creditado de algumas operações quando o potencial usuário do crédito seria a pessoa que realmente consumiu aquela mercadoria (transportadora subcontratada que consumiu o combustível); (b) inexistência destas operações, isto é, a venda da mercadoria (combustível) sequer teria se dado (o posto de combustíveis não teria vendido o combustível nem ao contribuinte, nem a pessoas por ele subcontratadas).
+A primeira linha de imputação não foi tratada na denúncia.
+O objeto da ação penal, portanto, volta-se para a apresentação de documentos que a pessoa imputada sabia ser inexato em razão de serem fruto de simulação entre a RC Transportadora, empresa gerida por Roberta, e a Muller Combustíveis.
+Conforme relatado pela testemunha de acusação, nas operações de venda de combustíveis a consumidor final, não há impacto fiscal para a emissão de notas de saída, visto que o ICMS já fora pago anteriormente; todavia, tais notas podem ser aproveitadas para crédito por quem consome o combustível como insumo. Caso das transportadoras, p. ex.
+O fisco estadual desconfiou da realização de fraudes nesse sentido e organizou uma grande operação, a qual teve por objeto também o posto Muller, resultando no AIIM 4.106.818-0 (fls. 445 e ss.), de 24/04/2018. Na ocasião verificaram uma inconsistência entre as entradas e saídas de combustíveis; além disso notaram uma incapacidade física do estabelecimento em realizar tantas vendas no período apurado. O posto defendeu-se alegando ter sido vítima de pessoas que teriam emitido notas fiscais eletrônicas sem o consentimento da pessoa jurídica. O fisco não aceitou a escusa sob o argumento de que as notas foram emitidas com o certificado digital habilitado em nome da pessoa jurídica.
+Como entre os destinatários de tais notas fiscais estava a RC Transportadora, ela foi alvo de procedimento do fisco estadual. Inicialmente, o fisco notou uma irregularidade jurídica, pois a RC tomava como seus os créditos de combustíveis consumidos por subcontratadas. Além disso, o fisco entendeu que as suspeitas que motivaram a diligência de fiscalização se confirmaram, vez que a RC não teria conseguido comprovar o efetivo pagamento ao posto Muller.
+Em relação à dimensão jurídica da operação, que não foi objeto da denúncia, friso, entendo ser impossível a imputação de qualquer elemento subjetivo, pois trata-se de questão que envolve tantas sutilezas técnicas (como quem seria o real adquirente do combustível para fins fiscais) que demandaria um acervo probatório muito mais robusto que este para permitir a inferência do dolo por parte da pessoa física com poderes de decisão dentro da pessoa jurídica.
+Em relação à fraude, ela foi provada na fase administrativa fiscal por dois caminhos, quais sejam, (i) declaração do posto Muller de que não emitira as notas fiscais eletrônicas (AIIM 4.106.818-0) [o que foi infirmado neste processo por declaração juntada pela defesa] e (ii) insuficiência dos documentos apresentados pela RC para comprovação da realização de tais operações, pois para o fisco paulista os cheques e o extratos bancários não demonstravam quem foram os reais beneficiários dos pagamentos. Uma vez notificada a apresentar a microfilmagem das cártulas, a RC somente juntou cópia dos cheques sem as assinaturas.
+Vê-se, assim, que no processo administrativo tributário, que possui somente repercussão cível, o acervo probatório foi muito mais robusto do que o colhido na esfera criminal.
+Na fase pré-processual foram ouvidos os agentes fiscais de rendas Rodrigo Possidonio Sassaki e João Paulo Oliani, os quais fizeram a fiscalização na empresa Transportes Ferreirense.
+Perante a autoridade policial a pessoa imputada declarou que:
+
+(...) é proprietária da empresa autuada, que sua empresa foi autuada por motivos de créditos que foram questionados por parte do fisco, que resultante desse questionamento o mesmo foi inscrito como divida, que segundo a ora declarante a legislação permite as ações da empresa e que por esse motivo toda essa situação esta sendo discutida judicialmente como segue em anexo toda a documentação processual demonstrando de forma detalhada a situação processual dos fatos (mídia anexa).
+Nada mais disse nem lhe foi perguntado.
+
+Ou seja, durante o inquérito a autoridade policial sequer questionou a pessoa imputada a respeito da fraude, sequer lhe solicitou a juntada de documentos como meio de provar a realização das operações. Em desconformidade com o inciso III do art. 6º do Código de Processo Penal.
+Tampouco houve qualquer solicitação do Ministério Público nesse sentido.
+Muito menos foram juntadas pela acusação as notas fiscais eletrônicas emitidas sem substrato fático. Sequer constou da denúncias os números das notas fiscais creditadas indevidamente.
+Tudo se passou como se o processo penal fosse um automático desdobramento do procedimento administrativo tributário. O que certamente afronta a presunção de inocência (art. 14.2 do Pacto Internacional sobre Direitos Civis e Políticos e art. 8.2 da Convenção Americana sobre Direitos Humanos).
+Inicialmente, o processo administrativo tributário no estado de São Paulo não acolhe o sistema acusatório, como preceitua o art. 3º-A do Código de Processo Penal para a persecução criminal. O fiscal de rendas não só constata e testemunha a infração, como também aplica a sanção; os revisores nas instâncias administrativas pertencem ao mesmo órgão público que ele (Secretaria da Fazenda); órgão público este que integra a estrutura do poder executivo e, por conta da hierarquia, possuem subordinação funcional; por fim, não possuem quaisquer garantias para o exercício de suas funções, exceto a estabilidade conferida a todo servidor público.
+As declarações do acusador, fiscal de rendas, gozam de um valor que não ostentam dentro do processo penal. As observações dele, independentemente de serem submetidas ao direito de confrontação da parte imputada (cf. art. 14.3, "e" do Pacto Internacional sobre Direitos Civis e Políticos e art. 8.2, "f", da Convenção Americana sobre Direitos Humanos), obrigam o contribuinte a fazer prova em sentido diverso, o que não sucede no processo penal acusatório, o que é facilmente percebido pelo art. 156 do Código de Processo Penal.
+Desta forma, o acervo colhido na fase administrativa é nitidamente insuficiente para uma condenação penal.
+É claro que se a imputação feita pela justiça pública é de uma fraude, de algo a parte imputada alega ter ocorrido, mas não ocorreu, o ônus de provar materialmente a não existência, neste contexto, é diabólico.
+Mas diante desse contexto bem específico da distribuição do ônus da prova, seria plenamente possível duas linhas de atuação. Uma para fornecer circunstâncias que indicassem a não existência das operações e outra para desacreditar as alegações defensivas de que elas existiram.
+Todavia, não se ouviu ninguém do posto Muller, muito embora a defesa tenha trazido documentação assinada pela referida pessoa jurídica de que teria recebido tais valores.
+Não se ouviu ninguém que fiscalizou o posto Muller e pudesse atestar a incapacidade física do estabelecimento em realizar o abastecimento dos veículos das empresas subcontratadas pela RC.
+Não se ouviu ninguém das empresas subcontratadas a respeito de ter havido ou não compra de combustíveis no posto Muller.
+Vê-se que até o oferecimento da denúncia a acusação pouco trouxe a respeito da suposta fraude (sequer o AIIM, que seguiu aparentemente com o inquérito, não foi juntado aos autos da ação penal). E conforme o art. 156 do Código de Processo Penal era seu ônus tal comprovação.
+Esse ônus maior no processo penal vem acompanhado de poderes maiores.
+Poderia o Ministério Público, por exemplo, em caso de recusa da pessoa imputada em apresentar os beneficiários das cártulas, requerer a quebra do sigilo das operações financeiras, conforme expressa autorização da Lei Complementar 105/01 (art. 1º, §4º, inciso VII). Mas também não foi requerido.
+O que se viu foi o estado policial tornar a persecução penal um anexo do procedimento administrativo, entendo por suficientes os documentos juntados, sem se atentar para as diferenças no regime de responsabilidade e divisão do ônus probatório que vige em cada um deles.
+Ademais, na fase administrativa as declarações dos funcionários públicos são prestadas sem a garantia do direito de confrontação, o que difere da prova judicial.
+Por motivo idêntico é que nas imputações de tráfico, p. ex., não basta à acusação a juntada dos termos de depoimento dos policiais militares que fizeram o flagrante junto à autoridade policial, sendo imprescindível a prova colhida em audiência.
+É justamente este teste pelos quais passam as testemunhas que confere credibilidade jurídica às suas declarações.
+Porque as declarações do posto Muller juntadas pela defesa possuem a mesma natureza documental das declarações dos fiscais de rendas juntadas pela acusação.
+Não é de se espantar, neste contexto, que boa parte das alegações finais da acusação tomou por base os documentos juntados pela defesa. Pois, diante da falta de substrato fático a explicitar de modo satisfatório as teses acusatórias, a defesa viu-se na tarefa ilegitimamente difícil de desdizer aquilo que não foi dito.
+Assim, inegável o prejuízo processual.
+Mas, ainda que se considere o juntado pela defesa na tentativa de esclarecer a acusação para então conseguir explicar suas teses, nem assim é possível, como vimos, atestar a existência da fraude, o que é essencial no contexto desta acusação específica para se poder legitimamente inferir o elemento subjetivo do tipo (“utilizar documento que saiba ou deva saber falso ou inexato”).
+Ante o exposto, JULGO IMPROCEDENTE o pedido condenatório para ABSOLVER ROBERTA CORTEZ TUFANIN das acusações a ela imputadas na denúncia nos termos do inciso VII do art. 386 do Código de Processo Penal.
+Publique-se. Intimem-se. Cumpra-se.
+Porto Ferreira, 25 de abril de 2022�.
+
+
+Valdemar Bragheto Junqueira - Juiz de Direito
+DOCUMENTO ASSINADO DIGITALMENTE NOS TERMOS DA LEI 11.419/2006, CONFORME IMPRESSÃO À MARGEM DIREITA

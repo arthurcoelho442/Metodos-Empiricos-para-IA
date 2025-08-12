@@ -1,0 +1,166 @@
+1049385-03.2021.8.26.0053
+Classe: Mandado de Segurança Cível
+Assunto: Energia Elétrica
+Magistrado: RENATO AUGUSTO PEREIRA MAIA
+Comarca: SÃO PAULO
+Foro: Foro Central - Fazenda Pública/Acidentes
+Vara: 11ª Vara de Fazenda Pública
+Data de Disponibilização: 11/01/2022
+... o ICMS não é imposto incidente sobre tráfico jurídico, não sendo cobrado, por não haver incidência, pelo fato de celebração de contratos, razão pela qual, no que se refere à contratação de demanda de potência elétrica, a só formalização desse tipo de contrato de compra ou fornecimento futuro de energia elétrica, não caracteriza circulação de mercadoria, ao menos não para fins de ...
+
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+COMARCA de SÃO PAULO
+Foro Central - Fazenda Pública/Acidentes
+11ª Vara de Fazenda Pública
+Viaduto Dona Paulina, 80, São Paulo - SP - cep 01501-020 
+      
+1049385-03.2021.8.26.0053 - lauda 
+SENTENÇA
+
+Processo nº:
+1049385-03.2021.8.26.0053
+Classe - Assunto
+Mandado de Segurança Cível - Energia Elétrica
+Impetrante:
+Associação E-business Park
+Impetrado:
+Secretário da Fazenda do Estado de São Paulo e outro
+
+
+
+Juiz(a) de Direito: Dr(a). RENATO AUGUSTO PEREIRA MAIA
+
+
+Vistos.
+
+
+Cuida-se de mandado de segurança impetrado por Associação E-business Park em face de suposto ato coator praticado por Secretário da Fazenda do Estado de São Paulo e outro, na qual se narra ser consumidora de energia elétrica na categoria livre e que as autoridades coatoras determinam a inclusão na base de cálculo do ICMS, além da energia elétrica efetivamente consumida, também sobre a demanda contratada. Aduz  que a base imponível do ICMS deve se limitar, exclusivamente, à parcela de energia elétrica (Tarifa de Energia – TE e bandeiras tarifárias amarela e vermelha). Requer a concessão de liminar para suspender a exigibilidade do ICMS incidente sobre a demanda contratada cobrados na fatura de energia elétrica e, ao final, a concessão da segurança para reconhecimento da não incidência de ICMS Demanda Contratada cobrados na fatura de energia elétrica.
+
+Foi DEFERIDA a liminar (fls. 309/318). Seguiu-se embargos de declaração (fls. 322/329), que foram parcialmente acolhidos (fls. 353/354).
+
+Eletropaulo Metropolitana Eletricidade de São Paulo S/A requereu sua habilitação nos autos (fls. 337/338).
+
+A FESP requereu seu ingresso na condição de assistente litisconsorcial (fl. 369).
+
+Notificadas, as autoridades impetradas apresentaram informações. Alegaram, preliminarmente, a ausência das condições da ação, a inadequação do pedido de natureza declaratória, a falta de interesse de agir, a ilegitimidade ativa da impetrante e a impossibilidade de benefício econômico relativo à período pretérito em sede de mandado de segurança. No mérito, traçaram os conceitos técnicos de consumo de energia e demanda de potência elétrica, argumentando sobre a formação do preço da mercadoria não se basta no consumo, mas releva a potência, tudo inserto em contrato único, por cláusula expressa, sem que isso constitua avença autônoma (fls. 377/409 e 416/448).
+
+O MINISTÉRIO PÚBLICO declinou interesse no feito (fls. 412/414).
+
+Relatados. FUNDAMENTO e DECIDO.
+
+Para fins do artigo 12 do Código de Processo Civil registro que tenho julgado os processos conclusos em curto espaço de tempo, sem caracterização de atraso, observando preferencialmente a ordem cronológica (Lei Federal 13.105/15 alterada pela Lei Federal 13.256/16).
+
+Passo ao fundo.
+
+DAS PRELIMINARES DE MÉRITO.
+NÃO ACOLHIMENTO.
+
+Primeiro carência de ação.
+
+“As “condições da ação”, como visto, são requisitos exigidos para que o processo possa levar a um provimento final, de mérito. A ausência de qualquer delas leva à prolação de sentença terminativa, ou seja, de sentença que não contém resolução do mérito da causa, o que acarreta a chamada “extinção anômala do processo”.
+
+(...) Assim é que, ao menos em termos de direito positivo, são três os requisitos do provimento final: legitimidade das partes, interesse de agir e possibilidade jurídica do pedido* (ou, como se verá adiante, possibilidade jurídica da demanda). Presentes os três requisitos, o processo poderá se desenvolver em direção de um provimento final, de mérito. A ausência de qualquer das “condições:, no fenômeno tradicionalmente designado por “carência de ação”, levará – como já afirmado – à extinção anômala do processo, ou seja, à prolação de sentença terminativa, que extingue o processo sem resolução do mérito”. (CÂMARA, Alexandre Freitas. Lições de Direito Processual Civil, vol. I, 16ª Ed. Lúmen Júris Editora, f. 128/129).
+
+Sustenta-se a tese da carência de ação por ausência de legitimidade de parte, um dos requisitos da tríade comumente eleita pela doutrina.
+
+“Esta – a legitimidade de parte – pode ser definida como a “pertinência subjetiva da ação”. Em outros termos, podemos afirmar que têm legitimidade para a causa os titulares da relação jurídica deduzida, pelo demandante, no processo. (...) Ao afirmar em juízo a existência de uma relação jurídica, o autor deverá, obviamente indicar os sujeitos da mesma” (CÂMARA, Alexandre Freitas. Op Cit. f. 129).
+
+Além dessa situação que doutrinariamente se chama de “legitimidade ordinária”, ainda é possível que se depare com legitimidade diversa:
+
+“(...) poderá a norma jurídica autorizar que alguém vá a juízo, em nome própria, na defesa de interesse alheio, o que significa afirmar que em algumas situações, expressamente previstas em lei, terá legitimidade de parte alguém que não é apresentado em juízo como titular da relação jurídica deduzida no processo. Fala-se, nessa hipótese, em legitimidade extraordinária” (CÂMARA, Alexandre Freitas. Op Cit. f. 130).
+
+Em que pese a situação ativa e passiva, não há como acolher a suposta ilegitimidade de parte. A análise da carência por ausência de interesse, consoante teoria da asserção, se opera em plano objetivo e abstrato dentro dos lindes adstritos da causa de pedir e do pedido, cingida a análise original da petição inicial e resistência. Sob essas linhas, à luz do caso concreto, constata-se que a narração dos autos dá conta sobre a relação tributária entre substituto e substituído dentro de corte das relações da cadeia de produção, onde prestador e consumidor de energia não consumidor final, discutem sobre o recolhimento de ICMS. Segundo a melhor jurisprudência, o ônus tributário, em tese, no regime de substituição tributária, é mesmo suportado pelo substituído, que tem, portanto, legitimidade para discutir a legalidade da prática.
+
+ICMS - Ação declaratória c/c repetição de indébito - Juízo de retratação - art 543-c, § 7°, do CPC - Energia elétrica -Legitimidade ad causam do comsumidor final - Contrato de demanda reservada de potência - Incidência sobre tarifa calculada com base na demanda de potência elétrica efetivamente utilizada - Súmula 391 do STJ - Incidência da taxa SELIC desde o recolhimento indevido, não podendo haver cumulação com qualquer outro índice de atualização monetária - Precedentes do E. Superior Tribunal de Justiça - Reexame necessário parcialmente provido, improvidos os recursos voluntários. (TJSP. Apelação Cível 9026365700 Relator(a): Pires de Araújo Comarca: São Paulo Órgão julgador: 11ª Câmara de Direito Público Data do julgamento: 30/11/2009 Data de registro: 29/12/2009).
+
+Segundo, os efeitos do mandado de segurança.
+
+Em nenhum momento do pedido da inicial se verifica que a impetrante tenha vista a receber valores indevidos passados, ou quiçá estender os efeitos de eventual decisão favorável para período anterior à citação.
+
+Isso em si já sinaliza que a preliminar traçada carece de qualquer interesse de acolhimento, porque em termos a pretensão e a informação, esvaziando qualquer conflito de interesses qualificado. No entanto, apenas para que conste, fica destacado que eventual acolhimento da demanda apenas tem fincas pro futuro, afastando-se parcela não correspondente à utilização da energia elétrica apenas para os períodos supervenientes à citação.
+
+Terceiro e última, cumprimento do artigo 166 do CTN.
+
+Alega a defesa que não se observou o cumprimento do artigo 166 do Código Tributário Nacional. Dispõe o artigo 166 do CTN:
+
+Art. 166. A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove haver assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la.
+
+Alguma razão assiste a FAZENDA DO ESTADO. O ICMS é tributo indireto e fica sujeito à observação do artigo em comento. No entanto, não se aplica esse dispositivo à situação concreta em análise. Isso porque, anoto por oportuno, não se trata de ação de repetição de indébito tributário, de sorte que fica desde logo rejeitada a aplicação do artigo que claramente prevê sobre restituição de tributos indiretos. Logo, nada a reparar.
+
+Passo finalmente ao mérito.
+
+Dentro de uma PERSPECTIVA CONSTRUTIVISTA da dialética processual, após procedimento completo, revisando tudo que praticado nos autos, resgato a TUTELA PROVISÓRIA vazada na qual relatei e decidi da forma que se segue:
+
+"[...] A demanda trazida a conhecimento se insere no âmbito administrativo, mais especificamente no âmbito da prestação de serviços públicos por concessão, remuneração do serviço e regras para composição do valor da tarifa de energia elétrica.
+
+DO ICMS SOBRE ENERGIA ELÉTRICA.
+PREVISÃO CONSTITUCIONAL E LEGAL.
+
+O ICMS é tributo previsto no artigo 155, inciso II, da Constituição Federal, que reserva aos Estados e ao Distrito Federal a exação das operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior. Segundo o inciso I e III do § 2º, do mesmo artigo, terá natureza será não-cumulativa, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal, tanto quanto será seletivo, em função da essencialidade das mercadorias e dos serviços.
+
+É certo que o ICMS, consoante disposição do artigo 155, § 2º, inciso X, alínea “b”, da Constituição Federal não incidirá sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica. No entanto, a tributação de energia elétrica poderá ser tributada diante do que previu o artigo 155, § 2º, inciso XII, alínea “h”, incluído pela Emenda Constitucional 33/2001, no sentido de caber a Lei Complementar definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no inciso X, “b”.
+
+A Lei Complementar foi editada. Entre nós é a Lei Complementar Federal 87, de 13 de setembro de 1996 que detalhou a questão. O artigo 2° da referida lei complementar, além de destacar a incidência sobre operações relativas à circulação de mercadorias, inclusive o fornecimento de alimentação e bebidas em bares, restaurantes e estabelecimentos similares; prestações de serviços de transporte interestadual e intermunicipal, por qualquer via, de pessoas, bens, mercadorias ou valores; prestações onerosas de serviços de comunicação, por qualquer meio, inclusive a geração, a emissão, a recepção, a transmissão, a retransmissão, a repetição e a ampliação de comunicação de qualquer natureza; fornecimento de mercadorias com prestação de serviços não compreendidos na competência tributária dos Municípios; fornecimento de mercadorias com prestação de serviços sujeitos ao imposto sobre serviços, de competência dos Municípios, quando a lei complementar aplicável expressamente o sujeitar à incidência do imposto estadual, também determinou a incidência do ICMS sobre a entrada, no território do Estado destinatário, de petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, e de energia elétrica, quando não destinados à comercialização ou à industrialização, decorrentes de operações interestaduais, cabendo o imposto ao Estado onde estiver localizado o adquirente. 
+
+DA HIPÓTESE DE INCIDÊNCIA.
+DA DEMANDA DE POTÊNCIA.
+
+Tecidas as linhas iniciais a atenção se volta sobre o cavalo de batalha travado nos autos, referente a abrangência da tributação por ICMS sobre energia elétrica, mais especificamente em relação à hipótese de incidência e a base de cálculo. Os autores defendem que a hipótese de incidência do tributo deve ser limitada à energia elétrica consumida, subtraindo da base de cálculo, por conseqüência, valores referentes à contratação de demanda de potência de energia não-consumida. A autoridade coatora, assistida pela FAZENDA DO ESTADO, a seu turno vislumbra que a discussão é típica de base de cálculo tributária, porque em sua visa, a hipótese de incidência garantiria tributação sobre a demanda de potência não-consumida, enquanto simples cláusula contratual de prestação de serviços de energia elétrica.
+
+A questão não é nova, e já mereceu suficiente apreciação do Poder Judiciário. Com efeito, a hipótese de incidência do ICMS, de acordo com o artigo 155, inciso II, combinado com o artigo 155, § 2º, inciso X, alínea “b”, inciso XIII, alíneas “h” e “i”, sob prisma do artigo 2º, § 1º, inciso III, da LCF 87/1996 remete ao fornecimento de energia elétrica. A tributação se dá sob a ótica do fornecimento da mercadoria energia elétrica, independentemente do que expresso nas cláusulas contratuais. Parece de rigor destacar que os contratos de prestação de energia elétrica não podem em si serem alargados para contemplar base de cálculo não prevista na Constituição Federal e em Lei Complementar.
+
+A propósito, a interpretação jurisprudencial mais sedimentada tem reiteradamente afirmado que o ICMS não é imposto incidente sobre tráfico jurídico, não sendo cobrado, por não haver incidência, pelo fato de celebração de contratos, razão pela qual, no que se refere à contratação de demanda de potência elétrica, a só formalização desse tipo de contrato de compra ou fornecimento futuro de energia elétrica, não caracteriza circulação de mercadoria, ao menos não para fins de tributação por ICMS. Afirma-se, assim, que o ICMS deve incidir sobre o valor da energia elétrica efetivamente consumida, isto é, a que for entregue ao consumidor, a que tenha saído da linha de transmissão e entrado no estabelecimento da sociedade empresária.
+
+TRIBUTÁRIO. ICMS. ENERGIA ELÉTRICA. DEMANDA DE POTÊNCIA. NÃO INCIDÊNCIA SOBRE TARIFA CALCULADA COM BASE EM DEMANDA CONTRATADA E NÃO UTILIZADA. INCIDÊNCIA SOBRE TARIFA CALCULADA COM BASE NA DEMANDA DE POTÊNCIA ELÉTRICA EFETIVAMENTE UTILIZADA. MATÉRIA DECIDIDA PELA 1ª SEÇÃO, NO RESP 960.476⁄SC, EM 11.03.2009, JULGADO SOB O REGIME DO ART. 543-C DO CPC. ESPECIAL EFICÁCIA VINCULATIVA DESSE PRECEDENTE (CPC, ART. 543-C, § 7º), QUE IMPÕE SUA ADOÇÃO EM CASOS ANÁLOGOS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+
+Assim, para efeito de base de cálculo de ICMS (tributo cujo fato gerador supõe o efetivo consumo de energia), o valor da tarifa a ser levado em conta é o correspondente à demanda de potência efetivamente utilizada no período de faturamento, como tal considerada a demanda medida, segundo os métodos de medição a que se refere o art. 2º, XII, da Resolução ANEEL 456⁄2000, independentemente de ser ela menor, igual ou maior que a demanda contratada. No mesmo sentido, ilustrando idêntico entendimento, conferir: embargos de declaração no recurso especial n. 1.051.265-RN, Rel. Min. Castro Meira, DJ 25.5.2009, agravo regimental no recurso especial nº 544.967 – DF, Rel. Min. Humberto Martins, DJ 23.6.2009, Agravo regimental no recurso especial 1067290, Rel. Min. Castro Meira, DJ 23.6.2009, embargos de declaração no agravo regimental no agravo 913974, Rel. Min. Mauro Campbell, agravo regimental no recurso especial 910723, Rel. Min. Eliana Calmon, DJ. 25.6.2009.
+
+APELAÇÃO – Ação declaratória de inexistência de relação jurídica tributária c.c. repetição de indébito – Repetição de indébito de ICMS sobre a reserva de demanda não consumida – Admissibilidade, ante a incidência do ICMS apenas para a demanda de potência efetivamente utilizada (STJ, REsp. nº 960.476/SC, no regime de recurso repetitivo e Súmula 391) – Correção monetária e juros de mora, conforme a taxa SELIC – Adequação ao quanto julgado nas ADIs 4357 e 4425 e aos temas 810 do STF e 905 do STJ – Sentença mantida. RECURSO VOLUNTÁRIO E REMESSA NECESSÁRIA NÃO PROVIDAS. (TJSP;  Apelação Cível 1046129-28.2016.8.26.0053; Relator (a): Vicente de Abreu Amadei; Órgão Julgador: 1ª Câmara de Direito Público; Foro Central - Fazenda Pública/Acidentes - 6ª Vara de Fazenda Pública; Data do Julgamento: 27/07/2020; Data de Registro: 27/07/2020)
+
+AGRAVO DE INSTRUMENTO. Mandado de Segurança. TUSD e TUST. Decisão que concedeu a liminar e ulterior suspensão dos autos até o julgamento do IRDR n. 09 desta Corte. Pretensa suspensão da decisão agravada até o julgamento do IRDR nº. 09. 1. Possibilidade de análise da tutela de urgência na hipótese dos autos, nos termos do art. 982, § 2º do CPC. ICMS incidente sobre o total da fatura incluindo as Tarifas de Uso do Sistema de Transmissão (TUST) ou Distribuição (TUSD. Inadmissibilidade. 2. ICMS que deve incidir apenas sobre a efetivamente fornecida. Inteligência da Súmula nº 391 do Superior Tribunal de Justiça: "O ICMS incide sobre o valor da tarifa de energia elétrica correspondente à demanda de potência efetivamente utilizada" - Precedentes desta Corte e do C. STJ. 3. Decisão mantida. Recurso não provido. (TJSP;  Agravo de Instrumento 3002190-84.2020.8.26.0000; Relator (a): Oswaldo Luiz Palu; Órgão Julgador: 9ª Câmara de Direito Público; Foro Central - Fazenda Pública/Acidentes - 9ª Vara de Fazenda Pública; Data do Julgamento: 09/06/2020; Data de Registro: 09/06/2020)
+
+APELAÇÃO CÍVEL – REEXAME NECESSÁRIO – MANDADO DE SEGURANÇA – Pretensão de afastar a exigibilidade do ICMS sobre o valor pago a título de "demanda contratada" de energia elétrica – Tese fixada pelo C. Supremo Tribunal Federal no Recurso Extraordinário n° 593824/SC – "A demanda de potência elétrica não é passível, por si só, de tributação via ICMS, porquanto somente integram a base de cálculo desse imposto os valores referentes àquelas operações em que haja efetivo consumo de energia elétrica pelo consumidor" (Tema 176) – Sentença mantida – Recurso fazendário e reexame necessário improvidos. (TJSP;  Apelação / Remessa Necessária 1036108-90.2016.8.26.0053; Relator (a): Maria Laura Tavares; Órgão Julgador: 5ª Câmara de Direito Público; Foro Central - Fazenda Pública/Acidentes - 4ª Vara de Fazenda Pública; Data do Julgamento: 05/06/2020; Data de Registro: 05/06/2020)
+
+Em arremate, sobre a matéria em debate, o C. Supremo Tribunal Federal, em 27/04/2020, no julgamento do tema 176 da repercussão geral (RE 593.824), fixou a seguinte tese: 
+
+"A demanda de potência elétrica não é passível, por si só, de tributação via ICMS, porquanto somente integram a base de cálculo desse imposto os valores referentes àquelas operações em que haja efetivo consumo de energia elétrica pelo consumidor". 
+
+O v. Acórdão concluiu que “[...] Chega-se, portanto, agora sob a ótica constitucional, à conclusão de que a demanda de potência elétrica não é passível, per se, de tributação via ICMS, a despeito de sua legítima cobrança tarifária pela prestação de serviço de energia elétrica. Isso porque não se depreende o consumo de energia somente pela disponibilização de demanda de potência ativa. Na espécie, há clara distinção entre a política tarifária do setor elétrico e a delimitação da regra-matriz do imposto em comento. Assim, a meu ver, o acórdão recorrido não destoa da atual ordem constitucional, porquanto o imposto deve ser calculado sobre o preço da operação final entre fornecedor e consumidor, não integrando a base de cálculo eventual montante relativo à negócio jurídico consistente na mera disponibilização de demanda de potência não utilizada [...]”.
+
+Por conseguinte, evidenciados no caso singular a probabilidade jurisprudencial do direito alegado. O perigo na demora é o próprio solve et repete, agravado pela quase certeza do direito. Desta feita, por ora, DEFIRO a tutela para determinar à ré que afaste a incidência do ICMS lançado contra a autora sobre a parcela não correspondente à utilização de energia elétrica, no caso de demanda contratada. [...]".
+
+ENTRETANTO, independente daquilo já firmado pela tutela que ora adoto como razão de sentença, o reexame detido do processamento revela que ainda existem questões remanescentes pendendo de apreciação.
+
+É a situação do pedido de declaração ao direito à restituição do imposto recolhido nos últimos cinco anos.
+
+Mantido o que já se decidiu, quanto a esses aspectos, a ação não pode ser acolhida, porque a pretensão esbarra na norma do art. 166, do Código Tributário Nacional. A ora impetrante não comprovou a assunção dos encargos financeiros ou a autorização para o pleito restituitório. Com efeito, é inviável o reconhecimento desse direito de crédito sem a observância do que dispõe a referida norma:
+
+“A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove haver assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la”.
+ 
+O E. TJSP tem sedimentado o seguinte:
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. MANDADO DE SEGURANÇA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE. RESTITUIÇÃO, CREDITAMENTO OU COMPENSAÇÃO. ART. 166 DO CTN. APLICABILIDADE. 1. A jurisprudência desta Corte é no sentido de que os tributos ditos indiretos, dentre eles o ICMS, sujeitam-se, em caso de restituição, compensação ou creditamento, à demonstração dos pressupostos estabelecidos no artigo 166 do CTN, o que não ocorreu na espécie, segundo conclusão obtida pelo Tribunal a quo. A aferição a respeito da ocorrência do repasse ou não do encargo financeiro importa revolver matéria fático-probatória, o que é inviável nesta seara recursal, ante o óbice da Súmula 7/STJ. 2. Recurso especial não conhecido. (STJ - Recurso Especial: 1209607 SP 2010/0145598-6, Relator: Ministro MAURO CAMPBELL MARQUES, Data de Julgamento: 04/11/2010, T2 - SEGUNDA TURMA, Data de Publicação: DJe 12/11/2010).
+
+No presente caso, pois, é preciso apurar a quem coube o encargo financeiro do pagamento tributário, porque, é registro de SACHA NAVARRA COÊLHO que “não seria ético, nem justo devolver o tributo indevido a quem não o suportou” (Curso de Direito Tributário Brasileiro, Rio de Janeiro, ed. Forense, 2005, p. 840), por mais que permaneça injusto o Estado reter indefinidamente o que recebeu de maneira indevida. Porém preservar o que recepcionou injuridicamente não se resolve com sua entrega indiscriminada a quem não sofreu seu encargo financeiro. Aliás, nesse sentido também é o entendimento do C. Superior Tribunal de Justiça (RMS 22.333 – 1ª Turma – Ministro JOSÉ DELGADO).
+
+Em face disso, não apenas pela impossibilidade legal de compensação, mas considerando a falta de comprovação de não repasse, e que se presume que a operação mercantil é em regra saudável ao vendedor, fica prejudicado o pedido declaratório do crédito pretérito.
+
+Enfim, diante de tudo que processado, assento – pois – parcial razão ao direito pretendido, significa dizer, isso notadamente se considerando a relação jurídica deduzida e os elementos processuais produzidos. Finalmente, para fiel cumprimento do artigo 489 do Código de Processo Civil, revisito a causa de pedir e de defesa deduzidas por Associação E-business Park e Secretário da Fazenda do Estado de São Paulo e outro, respectivamente. Naquilo tudo que deduzido, consoante já pronunciado pelo C. Superior Tribunal de Justiça, firmo que à luz dos argumentos e dos julgados oferecidos durante toda tramitação do processo, não vislumbro qualquer premissa fática ou jurídica, ressalva feita evidentemente àquelas que acolhi, que possam em tese ou em concreto infirmar as conclusões lançadas, no esteio da abordagem contida em fundamentação. 
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA. (...) 2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (...) (STJ, 1ª Seção, EDcl no Mandado de Segurança nº 21.315-DF (2014/0257056-9), Relator Ministro Herman Benjamin, julgado em 8/6/2016, g.n.).
+
+Isso posto, CONCEDO EM PARTE A SEGURANÇA para afastar a incidência do ICMS sobre a parcela não correspondente à utilização de energia elétrica, determinando o recolhimento do imposto sobre a base de cálculo relativa à parcela de energia efetivamente consumida. 
+
+Custas e despesas na forma da Lei.
+
+Descabida a condenação em honorários advocatícios em face do art. 25 da Lei nº 12.016, de 07 de agosto de 2009.
+
+Haverá reexame necessário.
+
+P.R.I.C.
+São Paulo, 11 de janeiro de 2022.
+
+RENATO AUGUSTO PEREIRA MAIA
+Juiz de Direito
+Documento Assinado Digitalmente
