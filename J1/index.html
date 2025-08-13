@@ -1,74 +1,160 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>jurisMetrics — decisões (index)</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; max-width:900px; margin:auto; }
-    header { display:flex; gap:10px; align-items:center; }
-    .card { border:1px solid #ddd; padding:10px; margin:10px 0; border-radius:6px; }
-    .links a { margin-right:8px; }
-    .meta { color:#555; font-size:0.9em; }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>jurisMetrics — Processos TJSP</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 20px; }
+header { display:flex; flex-wrap:wrap; gap:10px; align-items:center; }
+header h1 { margin: 0; font-size: 1.4rem; }
+.controls { display:flex; flex-wrap:wrap; gap:8px; }
+input, select { padding:6px 8px; }
+table { width:100%; border-collapse: collapse; margin-top: 12px; }
+th, td { border-bottom: 1px solid #ddd; padding: 8px; text-align: left; }
+th { background: #f4f4f4; position: sticky; top: 0; z-index: 1; }
+.muted { color:#555; font-size: 0.9em; }
+.links a { margin-right:6px; }
+</style>
 </head>
 <body>
-  <header>
-    <h1>jurisMetrics — decisões (index)</h1>
-    <div style="margin-left:auto;">
-      <label for="crime">Filtrar por crime:</label>
-      <select id="crime">
-        <option value="all">Todos</option>
-      </select>
-    </div>
-  </header>
+<header>
+  <h1>jurisMetrics — Processos TJSP</h1>
+</header>
 
-  <main id="list"></main>
+<div class="controls">
+  <input id="q" type="search" placeholder="Buscar..." />
+  <select id="fComarca"><option value="">Comarca (todas)</option></select>
+  <select id="fVara"><option value="">Vara (todas)</option></select>
+  <select id="fJuiz"><option value="">Juiz (todos)</option></select>
+  <select id="fReu"><option value="">Réu (todos)</option></select>
+  <select id="fAssunto"><option value="">Assunto (todos)</option></select>
+</div>
 
-  <script>
-    // --- CONFIGURE AQUI ---
-    const BASE_URL = "http://200.137.66.21/tjsp/law-tjsp/"; // ajustar se necessário
-    // Exemplo de mapeamento (id -> [pdf, txt, crime, descrição])
-    const docs = [
-      // substitua pelos nomes reais dos arquivos disponíveis no servidor
-      { id: "001", pdf: "decisao_001.pdf", txt: "decisao_001.txt", crime: "Simple Theft", title: "Decisão 001" },
-      { id: "002", pdf: "decisao_002.pdf", txt: "decisao_002.txt", crime: "Robbery", title: "Decisão 002" },
-      // ... adicione toda a listagem (pode ser gerada por script)
-    ];
+<div class="muted" id="msg">Carregando...</div>
 
-    // popula dropdown com tipos de crime existentes
-    const crimes = [...new Set(docs.map(d=>d.crime))].sort();
-    const sel = document.getElementById('crime');
-    crimes.forEach(c => {
-      const o = document.createElement('option');
-      o.value = c;
-      o.textContent = c;
-      sel.appendChild(o);
-    });
+<table id="tbl" hidden>
+<thead>
+<tr>
+  <th>No. Processo</th>
+  <th>Data</th>
+  <th>Comarca</th>
+  <th>Vara</th>
+  <th>Juiz</th>
+  <th>Réu</th>
+  <th>Assunto</th>
+  <th>Arquivos</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
 
-    function render(filter='all') {
-      const container = document.getElementById('list');
-      container.innerHTML = '';
-      const filtered = docs.filter(d => filter === 'all' ? true : d.crime === filter);
-      if (filtered.length === 0) container.innerHTML = '<p>Nenhuma decisão encontrada para esse filtro.</p>';
-      for (const d of filtered) {
-        const div = document.createElement('div');
-        div.className = 'card';
-        div.innerHTML = `
-          <strong>${d.title}</strong>
-          <div class="meta">Crime: ${d.crime} — ID: ${d.id}</div>
-          <div class="links">
-            <a href="${BASE_URL + d.pdf}" target="_blank">PDF</a>
-            <a href="${BASE_URL + d.txt}" target="_blank">TXT</a>
-          </div>
-        `;
-        container.appendChild(div);
-      }
-    }
+<script>
+const JSON_URL = 'docs.json'; // gerado pelo build_index_with_fields.py
+const BASE_URL = './decisoesTJSP/'; // ajuste se necessário
 
-    document.getElementById('crime').addEventListener('change', e => render(e.target.value));
-    // inicializa
-    render();
-  </script>
+let rows = [];
+let filtered = [];
+
+const elTbl = document.getElementById('tbl');
+const elTbd = elTbl.querySelector('tbody');
+const elMsg = document.getElementById('msg');
+const elQ = document.getElementById('q');
+const elFC = document.getElementById('fComarca');
+const elFV = document.getElementById('fVara');
+const elFJ = document.getElementById('fJuiz');
+const elFR = document.getElementById('fReu');
+const elFA = document.getElementById('fAssunto');
+
+function uniqueOptions(key) {
+  return [...new Set(rows.map(r => (r[key]||'').trim()).filter(Boolean))].sort();
+}
+
+function fillSelect(select, options) {
+  options.forEach(o => {
+    const opt = document.createElement('option');
+    opt.value = o; opt.textContent = o;
+    select.appendChild(opt);
+  });
+}
+
+function renderFilters() {
+  fillSelect(elFC, uniqueOptions('Comarca'));
+  fillSelect(elFV, uniqueOptions('Vara'));
+  fillSelect(elFJ, uniqueOptions('Juiz'));
+  fillSelect(elFR, uniqueOptions('Réu'));
+  fillSelect(elFA, uniqueOptions('Assunto'));
+}
+
+function match(hay, needle) {
+  return (hay||'').toLowerCase().includes(needle);
+}
+
+function applyFilters() {
+  const q = elQ.value.trim().toLowerCase();
+  const fC = elFC.value;
+  const fV = elFV.value;
+  const fJ = elFJ.value;
+  const fR = elFR.value;
+  const fA = elFA.value;
+
+  filtered = rows.filter(r => {
+    const passQ = !q || ['No. Processo','Comarca','Vara','Juiz','Réu','Assunto']
+      .some(k => match(r[k], q));
+    const passC = !fC || r['Comarca'] === fC;
+    const passV = !fV || r['Vara'] === fV;
+    const passJ = !fJ || r['Juiz'] === fJ;
+    const passR = !fR || r['Réu'] === fR;
+    const passA = !fA || r['Assunto'] === fA;
+    return passQ && passC && passV && passJ && passR && passA;
+  });
+
+  filtered.sort((a,b) => String(b['Data']||'').localeCompare(String(a['Data']||'')));
+  renderTable();
+}
+
+function linkOrDash(file, label) {
+  if (!file) return '—';
+  return `<a href="${BASE_URL + file}" target="_blank">${label}</a>`;
+}
+
+function renderTable() {
+  elTbd.innerHTML = '';
+  filtered.forEach(r => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${r['No. Processo']||''}</td>
+      <td>${r['Data']||''}</td>
+      <td>${r['Comarca']||''}</td>
+      <td>${r['Vara']||''}</td>
+      <td>${r['Juiz']||''}</td>
+      <td>${r['Réu']||''}</td>
+      <td>${r['Assunto']||''}</td>
+      <td class="links">
+        ${linkOrDash(r['pdf'], 'PDF')}
+        ${linkOrDash(r['txt'], 'TXT')}
+      </td>
+    `;
+    elTbd.appendChild(tr);
+  });
+  elMsg.textContent = `${filtered.length} registro(s)`;
+  elTbl.hidden = filtered.length === 0;
+}
+
+fetch(JSON_URL)
+  .then(r => r.json())
+  .then(data => {
+    rows = data;
+    renderFilters();
+    applyFilters();
+  })
+  .catch(err => {
+    console.error(err);
+    elMsg.textContent = 'Erro ao carregar docs.json';
+  });
+
+[elQ, elFC, elFV, elFJ, elFR, elFA].forEach(el => el.addEventListener('input', applyFilters));
+[elFC, elFV, elFJ, elFR, elFA].forEach(el => el.addEventListener('change', applyFilters));
+</script>
 </body>
 </html>
